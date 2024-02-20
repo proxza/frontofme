@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Survey Form</title>
+    <link href="styles.css" rel="stylesheet" />
+  </head>
+  <body>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">
+      Thank you for taking the time to help us improve the platform
+    </p>
+    <form id="survey-form" action="" method="post">
+      <label id="name-label" for="name"
+        >Name
+        <input id="name" type="text" placeholder="Enter your name" required
+      /></label>
+      <label id="email-label" for="email"
+        >Email
+        <input id="email" type="email" placeholder="Enter your email" required
+      /></label>
+      <label id="number-label" for="number"
+        >Age
+        <input
+          id="number"
+          type="number"
+          placeholder="Enter you age"
+          min="1"
+          max="200"
+      /></label>
+      <label for="dropdown"
+        >Which option best describes your current role?
+        <select id="dropdown" name="dropdown">
+          <option value="1">Student</option>
+          <option value="2">Full Time Job</option>
+          <option value="3">Full Time Learner</option>
+          <option value="4">Prefer not to say</option>
+          <option value="5">Other</option>
+        </select>
+      </label>
+      <legend>Would you recommend freeCodeCamp to a friend?</legend>
+      <label for="friend1"
+        ><input
+          id="friend1"
+          type="radio"
+          value="definitely"
+          name="account-type"
+          checked
+        />
+        Definitely</label
+      >
+      <label for="friend2"
+        ><input id="friend2" type="radio" value="maybe" name="account-type" />
+        Maybe</label
+      >
+      <label for="friend3"
+        ><input id="friend3" type="radio" value="notsure" name="account-type" />
+        Not sure</label
+      >
+
+      <label
+        >What would you like to see improved? Front-end Projects
+        <input type="checkbox" value="frontend" /> Back-end Projects
+        <input type="checkbox" value="backend" /> Data Visualization
+        <input type="checkbox" value="data" />
+      </label>
+
+      <label>Any comments or suggestions? <textarea></textarea></label>
+
+      <input id="submit" name="submit" type="submit" />
+    </form>
+  </body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link href="styles.css" rel="stylesheet" />
+  </head>
+  <body>
+    <main>
+      <div id="btn">
+        <button type="button" id="dosomething" onclick="ShowMe()">
+          Show Me
+        </button>
+      </div>
+
+      <div id="btn">
+        <button type="button" onclick="AddSomeThing()">Add Me</button>
+        <div>
+          <ol id="list">
+            <span id="counter"></span>
+          </ol>
+        </div>
+      </div>
+
+      <div id="btn">
+        <input type="text" id="textfromhere" />
+        <button type="button" onclick="TextMe()">Text Me</button>
+        <div id="textmehere"></div>
+      </div>
+    </main>
+
+    <script>
+      function ShowMe() {
+        alert("Show me the light!");
+      }
+
+      function AddSomeThing() {
+        let ul = document.getElementById("list");
+        let li = document.createElement("li");
+        li.textContent = "Here is a new list item ";
+        ul.appendChild(li);
+      }
+
+      function TextMe() {
+        let from_input = document.getElementById("textfromhere").value;
+        document.getElementById("textfromhere").value = ""; // Clear input
+        let output = document.getElementById("textmehere");
+        let msg = document.createElement("p");
+        msg.textContent = from_input;
+        output.appendChild(msg);
+      }
+    </script>
+  </body>
+</html>
