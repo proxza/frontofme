@@ -20,6 +20,14 @@
   border-radius: 5px;
 }
 
+.content-text {
+  text-decoration: underline;
+}
+
+.content-vs {
+  font-weight: bold;
+}
+
 div .output {
   margin: 35px 0;
 }
