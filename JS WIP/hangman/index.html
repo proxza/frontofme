@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hangman</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="game.js" defer></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="logo">
+        <h1>Hangman</h1>
+      </div>
+      <div class="main-container">
+        <div class="showMe" id="showMe"></div>
+        <div class="stats" id="stats">
+          <p>Mistakes: 0/7;</p>
+          <p>HP: 100%</p>
+          <p>XP: 0</p>
+          <p>Streaks: 0</p>
+        </div>
+      </div>
+      <div class="secret" id="secret"></div>
+      <div class="panel" id="panel">
+        <button id="hint" onclick="showMeHint()">Hint</button>
+      </div>
+      <div class="selectWord"></div>
+      <div class="copy">
+        <p class="poweredby">copyright by proxz</p>
+        <p class="poweredby">2024</p>
+      </div>
+    </div>
+  </body>
+</html>
