@@ -1,118 +1,126 @@
-/* Импортируем шрифт 'Roboto' с Google Fonts для использования в игре */
+/* Import the 'Roboto' font from Google Fonts for use in the game */
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
-/* Глобальные стили */
+/* GLOBAL STYLE */
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
   font-family: "Roboto", sans-serif;
   font-size: 1.2rem;
-  color: #333; /* Стандартный цвет текста */
+  color: #333;
   background-color: #f4f4f4;
 }
 
-/* Основной контейнер */
+/* Main container */
 .main {
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-direction: column;
-  height: 100vh; /* Высота на всю доступную высоту вьюпорта */
-  padding: 20px; /* Внутренний отступ */
+  height: 100vh;
+  padding: 20px;
 }
 
 .main-container {
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
-/* Стили для логотипа игры */
+.showMe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stats {
+  margin-left: 20px;
+}
+
+.showMe img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Logo style*/
 div .logo {
   margin: 0px 0 10px 0;
-  text-align: center; /* Выравнивание по центру */
+  text-align: center;
 }
 
-div .showMe {
-  margin: 10px 0 20px 0;
-}
-
-/* Стили для заголовка */
 h1 {
   font-weight: 900;
   font-size: 1.8rem;
-  color: #5a5a5a; /* Цвет заголовка */
+  color: #5a5a5a;
 }
 
-/* Стилизация секретного слова */
+/* Secret word style */
 div .secret {
-  border: 1px solid #333; /* Чёрная рамка */
+  border: 1px solid #333;
   padding: 20px;
   margin: 0px 0;
-  text-align: center; /* Выравнивание текста по центру */
+  text-align: center;
 }
 
-/* Панель с информацией или действиями */
 div .panel {
   margin: 10px 0;
-  text-align: center; /* Выравнивание по центру */
+  text-align: center;
 }
 
-/* Контейнер для кнопок выбора слова */
 .selectWord {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 10px; /* Расстояние между кнопками */
+  gap: 10px;
   width: 100%;
-  max-width: 600px; /* Максимальная ширина области с кнопками */
-  padding: 0; /* Убедимся, что внутренние отступы не влияют на ширину */
+  max-width: 600px;
+  padding: 0;
   box-sizing: border-box;
   margin: 10px auto;
 }
 
-/* Стилизация кнопок алфавита */
+/* Buttons Style */
 button[id^="btn"] {
-  flex: 0 0 calc(20% - 20px); /* Уменьшаем ширину кнопок */
-  height: 40px; /* Высота кнопок для единообразия */
-  padding: 8px; /* Уменьшенный внутренний отступ */
-  margin: 5px; /* Отступ между кнопками */
-  border: 1px solid #bdbdbd; /* Тонкая граница вокруг кнопок */
+  flex: 0 0 calc(20% - 20px);
+  height: 40px;
+  padding: 8px;
+  margin: 5px;
+  border: 1px solid #bdbdbd;
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s;
   background-color: #e7e7e7;
   text-align: center;
-  box-sizing: border-box; /* Включаем padding и border в ширину кнопки */
+  box-sizing: border-box;
 }
 
-/* Стили для активной кнопки */
+/* Styles for active button */
 button[id^="btn"]:active,
 button[id^="btn"]:focus {
-  background-color: #a4a4a4; /* Тёмно-серый фон при клике или фокусе */
-  color: white; /* Белый текст */
+  background-color: #a4a4a4;
+  color: white;
 }
 
-/* При наведении изменяем фон кнопок */
 button[id^="btn"]:hover {
-  background-color: #d7d7d7; /* Светло-серый фон при наведении */
+  background-color: #d7d7d7;
 }
 
-/* Стили для кнопок с правильной и неправильной буквой */
+/* Styles for buttons with correct and incorrect letter */
 button.correct {
-  background-color: #5cb85c; /* Зелёный цвет для правильных ответов */
-  color: white; /* Белый цвет текста */
+  background-color: #5cb85c;
+  color: white;
 }
 
 button.wrong {
-  background-color: #d9534f; /* Красный цвет для ошибок */
-  color: white; /* Белый цвет текста */
+  background-color: #d9534f;
+  color: white;
 }
 
 #resetButton {
-  padding: 8px; /* Уменьшенный внутренний отступ */
-  margin: 5px; /* Отступ между кнопками */
-  border: 1px solid #bdbdbd; /* Тонкая граница вокруг кнопок */
+  padding: 8px;
+  margin: 5px;
+  border: 1px solid #bdbdbd;
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s;
@@ -121,9 +129,9 @@ button.wrong {
 }
 
 #hint {
-  padding: 8px; /* Уменьшенный внутренний отступ */
-  margin: 5px; /* Отступ между кнопками */
-  border: 1px solid #bdbdbd; /* Тонкая граница вокруг кнопок */
+  padding: 8px;
+  margin: 5px;
+  border: 1px solid #bdbdbd;
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s;

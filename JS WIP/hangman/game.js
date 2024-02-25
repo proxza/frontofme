@@ -14,10 +14,9 @@ const selectWordDiv = document.querySelector(".selectWord"),
 
 // Key processing from the keyboard
 document.addEventListener("keydown", (event) => {
-  const letter = event.key.toLowerCase(); // Получаем букву в нижнем регистре
+  const letter = event.key.toLowerCase();
   if (letter >= "a" && letter <= "z" && letter.length === 1) {
-    // Проверяем, что это одиночная буква
-    getBtn(letter); // Вызываем функцию обработки
+    getBtn(letter);
   }
   console.log("Keydown event detected:", event.key);
 });
@@ -51,7 +50,7 @@ function generateDisplayString(randomizeWord, guessedLetters) {
 }
 
 // Player statistics
-function updateStats(mistakes, hp, score, streak) {
+function updateStats() {
   statsDiv.innerHTML = `<p>Mistakes: ${mistakes}/5</p>
     <p>HP: ${hp}%</p>
     <p>XP: ${score}</p>
@@ -59,9 +58,10 @@ function updateStats(mistakes, hp, score, streak) {
 }
 
 // Player's win condition
-function checkWinCondition(allLettersGuessed, mistakes, streak, hp, SCORE_EXP, score) {
+function checkWinCondition(allLettersGuessed) {
   if (allLettersGuessed) {
     streak++;
+    console.log(streak);
     score += SCORE_EXP + hp / 10;
 
     if (mistakes == 0 && streak >= 3) {
@@ -76,8 +76,8 @@ function checkWinCondition(allLettersGuessed, mistakes, streak, hp, SCORE_EXP, s
 function displaySecret() {
   updateHangmanImage(mistakes);
   const allLettersGuessed = generateDisplayString(randomizeWord, guessedLetters);
-  updateStats(mistakes, hp, score, streak);
-  checkWinCondition(allLettersGuessed, mistakes, streak, hp, SCORE_EXP, score);
+  updateStats();
+  checkWinCondition(allLettersGuessed);
 }
 
 // Changing button styles
@@ -91,13 +91,13 @@ function disableButton(clickedButton, borderColor, borderWidth) {
 
 // Update score when player guess the letter
 function updateScoreOnCorrectGuess() {
-  score += SCORE_EXP * (1 + streak * 0.1); // Добавляем опыт за правильный выбор
+  score += Math.round(SCORE_EXP * (1 + streak * 0.1));
 }
 
 // Player's mistakes
 function handleIncorrectGuess() {
   if (score != 0) {
-    score -= 5 * (1 - mistakes / 10); // Уменьшаем потерю опыта
+    score = Math.max(Math.round(score - 5 * (1 - mistakes / 10)), 0);
   }
   hp -= 20; // Уменьшаем здоровье
   mistakes++;
@@ -127,7 +127,7 @@ function getBtn(letter) {
   }
 
   checkGameOver();
-  displaySecret(); // Обновляем отображение слова и статистики
+  displaySecret();
 }
 
 // Hint
