@@ -55,6 +55,10 @@ h1 {
   color: #5a5a5a;
 }
 
+sup {
+  font-size: 0.6rem;
+}
+
 /* Secret word style */
 div .secret {
   border: 1px solid #333;
@@ -143,4 +147,5 @@ button.wrong {
   font-size: 0.6rem;
   text-align: center;
   color: #c5c8c9;
+  margin: 10px 0 10px;
 }
