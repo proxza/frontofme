@@ -15,7 +15,7 @@ const selectWordDiv = document.querySelector(".selectWord"),
 // Key processing from the keyboard
 document.addEventListener("keydown", (event) => {
   const letter = event.key.toLowerCase();
-  if (letter >= "a" && letter <= "z" && letter.length === 1) {
+  if (/^[a-z]$/.test(letter)) {
     getBtn(letter);
   }
   console.log("Keydown event detected:", event.key);
@@ -30,6 +30,14 @@ function randomWord() {
 function updateHangmanImage(mistakes) {
   const imgElement = document.getElementById("hangmanImage");
   imgElement.src = `./img/hp-${mistakes}.png`;
+}
+
+// MAIN
+function displaySecret() {
+  updateHangmanImage(mistakes);
+  const allLettersGuessed = generateDisplayString(randomizeWord, guessedLetters);
+  updateStats();
+  checkWinCondition(allLettersGuessed);
 }
 
 // The main function determining the guessing of words and letters
@@ -62,31 +70,14 @@ function updateStats() {
 function checkWinCondition(allLettersGuessed) {
   if (allLettersGuessed) {
     streak++;
-    console.log(streak);
-    score += SCORE_EXP + hp / 10;
+    score += Math.round(SCORE_EXP + hp / 10);
 
+    // Bonus EXP
     if (mistakes == 0 && streak >= 3) {
-      score += SCORE_EXP * 2;
+      score += Math.round(SCORE_EXP * 2);
     }
 
     panelDiv.innerHTML = `<button id="resetButton" onclick="startNewRound()">Next Round!</button>`;
-  }
-}
-
-// MAIN
-function displaySecret() {
-  updateHangmanImage(mistakes);
-  const allLettersGuessed = generateDisplayString(randomizeWord, guessedLetters);
-  updateStats();
-  checkWinCondition(allLettersGuessed);
-}
-
-// Changing button styles
-function disableButton(clickedButton, borderColor, borderWidth) {
-  if (clickedButton) {
-    clickedButton.style.borderColor = borderColor;
-    clickedButton.style.borderWidth = borderWidth;
-    clickedButton.disabled = true;
   }
 }
 
@@ -100,12 +91,13 @@ function handleIncorrectGuess() {
   if (score != 0) {
     score = Math.max(Math.round(score - 5 * (1 - mistakes / 10)), 0);
   }
-  //hp -= Math.round(14.29);
+
   mistakes++;
+
   if (mistakes < 7) {
-    hp -= 14; // Вычитаем 14 HP за каждую ошибку, кроме последней
+    hp -= 14;
   } else if (mistakes === 7) {
-    hp -= 16; // Вычитаем 16 HP за последнюю ошибку, чтобы достичь 0 HP
+    hp -= 16;
   }
 }
 
@@ -114,6 +106,15 @@ function checkGameOver() {
   if (mistakes === 7 || hp <= 0) {
     alert("YOU LOST :(");
     panelDiv.innerHTML = `<button id="resetButton" onclick="startNewGame()">Start New Game</button>`;
+  }
+}
+
+// Changing button styles
+function disableButton(clickedButton, borderColor, borderWidth) {
+  if (clickedButton) {
+    clickedButton.style.borderColor = borderColor;
+    clickedButton.style.borderWidth = borderWidth;
+    clickedButton.disabled = true;
   }
 }
 
