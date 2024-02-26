@@ -147,5 +147,9 @@ button.wrong {
   font-size: 0.6rem;
   text-align: center;
   color: #c5c8c9;
-  margin: 10px 0 10px;
+  margin: 0;
+}
+
+div .copy {
+  padding: 10px;
 }

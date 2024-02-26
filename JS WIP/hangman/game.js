@@ -52,7 +52,7 @@ function generateDisplayString(randomizeWord, guessedLetters) {
 
 // Player statistics
 function updateStats() {
-  statsDiv.innerHTML = `<p>Mistakes: ${mistakes}/5</p>
+  statsDiv.innerHTML = `<p>Mistakes: ${mistakes}/7</p>
     <p>HP: ${hp}%</p>
     <p>XP: ${score}</p>
     <p>Streaks: ${streak}</p>`;
@@ -100,13 +100,18 @@ function handleIncorrectGuess() {
   if (score != 0) {
     score = Math.max(Math.round(score - 5 * (1 - mistakes / 10)), 0);
   }
-  hp -= 20; // Уменьшаем здоровье
+  //hp -= Math.round(14.29);
   mistakes++;
+  if (mistakes < 7) {
+    hp -= 14; // Вычитаем 14 HP за каждую ошибку, кроме последней
+  } else if (mistakes === 7) {
+    hp -= 16; // Вычитаем 16 HP за последнюю ошибку, чтобы достичь 0 HP
+  }
 }
 
 // GAME OVER :(
 function checkGameOver() {
-  if (mistakes === 5) {
+  if (mistakes === 7 || hp <= 0) {
     alert("YOU LOST :(");
     panelDiv.innerHTML = `<button id="resetButton" onclick="startNewGame()">Start New Game</button>`;
   }
@@ -131,14 +136,18 @@ function getBtn(letter) {
   displaySecret();
 }
 
-// Hint
+// Hint function
 function showMeHint() {
   const count = randomizeWord.length;
-  const showLetter = Math.floor(Math.random() * count);
-  const letter = randomizeWord[showLetter];
+  let letter = "";
+
+  do {
+    const showLetter = Math.floor(Math.random() * count);
+    letter = randomizeWord[showLetter];
+  } while (guessedLetters.has(letter));
+
   guessedLetters.add(letter);
 
-  console.log(letter);
   displaySecret();
 }
 
