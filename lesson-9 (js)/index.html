@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Todo App</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>TODO APP</h1>
+    </header>
+    <main>
+      <section class="add-task">
+        <input type="text" id="new-task" placeholder="New todo..." />
+        <input type="number" id="priority" placeholder="Priority" min="1" max="5" />
+        <input type="date" id="deadline" />
+        <button id="add-btn">ADD</button>
+      </section>
+      <section class="task-list">
+        <table id="todo-table">
+          <thead>
+            <tr>
+              <th id="sort-task">Task</th>
+              <th class="td-mini" id="sort-priority">Priority</th>
+              <th class="td-mini" id="sort-deadline">Deadline</th>
+              <th class="td-mini">Actions</th>
+            </tr>
+          </thead>
+          <tbody id="todo-body">
+            <!-- Tasks will be added here dynamically -->
+          </tbody>
+        </table>
+      </section>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
