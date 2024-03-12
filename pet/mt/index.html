@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MT :: Login</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="js/login.js" defer></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="logo">LOGO.png</div>
+
+      <div class="login">
+        <div class="login-container">
+          <h2>Login:</h2>
+          <form action="/dash.html" class="loginForm">
+            <div class="input-group">
+              <label for="username" class="label">Username</label>
+              <input type="text" id="username" class="uName" />
+              <span class="error-message"></span>
+            </div>
+
+            <div class="input-group">
+              <label for="password" class="label">Password</label>
+              <input type="password" id="password" class="uPass" />
+              <span class="error-message"></span>
+            </div>
+
+            <button class="btn" type="submit">Login</button>
+          </form>
+        </div>
+      </div>
+
+      <div class="footer">
+        <p>Copyright is here</p>
+      </div>
+    </div>
+  </body>
+</html>

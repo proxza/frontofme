@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css" />
+    <title>Personal Blog</title>
+    <style>
+      .blog-post {
+        border-bottom: 1px solid #000;
+        margin-bottom: 1rem;
+        padding-bottom: 1rem;
+      }
+      .blog-post:last-child {
+        border-bottom: none;
+      }
+      .edit-delete {
+        text-align: right;
+        margin-top: -0.5rem;
+        margin-bottom: 0.5rem;
+      }
+      .edit-delete a {
+        color: #000;
+        text-decoration: none;
+        padding: 0.2rem 0.5rem;
+        border: 1px solid #000;
+        border-radius: 0.3rem;
+        margin-left: 0.5rem;
+      }
+      .pagination {
+        text-align: center;
+        margin-top: 2rem;
+      }
+      footer {
+        text-align: center;
+        padding: 2rem 0;
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="container-fluid">
+      <ul>
+        <li><strong>LOGO</strong></li>
+      </ul>
+      <ul>
+        <li><a href="#">Menu</a></li>
+        <li><a href="#">Menu 2</a></li>
+        <li><a href="#" role="button">Menu 3</a></li>
+      </ul>
+    </nav>
+    <main class="container">
+      <div class="grid">
+        <section>
+          <hgroup>
+            <h2>Blog Title</h2>
+            <h3>Subheading</h3>
+          </hgroup>
+          <div class="edit-delete">
+            <a href="#" role="button">Edit</a>
+            <a href="#" role="button">Delete</a>
+          </div>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+        </section>
+        <section class="blog-post">
+          <h2>Title</h2>
+          <div class="edit-delete">
+            <a href="#" role="button">Edit</a>
+            <a href="#" role="button">Delete</a>
+          </div>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+        </section>
+        <!-- Additional blog post sections go here -->
+      </div>
+    </main>
+    <div class="pagination"><a href="#">1</a> / <a href="#">2</a> / <a href="#">3</a> / <a href="#">4</a> / ...</div>
+    <footer class="container">
+      <small>&copy; Copyright</small>
+    </footer>
+  </body>
+</html>
