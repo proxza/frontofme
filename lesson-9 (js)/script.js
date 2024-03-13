@@ -67,8 +67,8 @@ const saveEditTodo = (id) => {
 const sortTodos = (field) => {
   const sortOrder = {
     text: (a, b) => a.text.localeCompare(b.text),
-    priority: (a, b) => a.priority - b.priority,
-    deadline: (a, b) => new Date(a.deadline.split("-").reverse()) - new Date(b.deadline.split("-").reverse()),
+    priority: (a, b) => (prioritySortStatus ? b.priority - a.priority : a.priority - b.priority),
+    deadline: (a, b) => (deadlineSortStatus ? new Date(b.deadline) - new Date(a.deadline) : new Date(a.deadline) - new Date(b.deadline)),
   };
 
   todos.sort(sortOrder[field]);
@@ -89,10 +89,20 @@ const saveTodos = () => {
 // Now we update our todos array initialization
 todos = loadTodos();
 
+// Переключатели для сортировки по приоритету и дедлайну
+let prioritySortStatus = false;
+let deadlineSortStatus = false;
+
 // Event listeners for sorting
 document.getElementById("sort-task").addEventListener("click", () => sortTodos("text"));
-document.getElementById("sort-priority").addEventListener("click", () => sortTodos("priority"));
-document.getElementById("sort-deadline").addEventListener("click", () => sortTodos("deadline"));
+document.getElementById("sort-priority").addEventListener("click", () => {
+  prioritySortStatus = !prioritySortStatus;
+  sortTodos("priority");
+});
+document.getElementById("sort-deadline").addEventListener("click", () => {
+  deadlineSortStatus = !deadlineSortStatus;
+  sortTodos("deadline");
+});
 
 // Function to render todos to the DOM
 const renderTodos = () => {

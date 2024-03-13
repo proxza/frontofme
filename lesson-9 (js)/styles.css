@@ -81,6 +81,15 @@ table .td-mini {
   text-align: center;
 }
 
+table .td-mini-sr {
+  text-align: center;
+  cursor: pointer;
+}
+
+table .td-task {
+  cursor: pointer;
+}
+
 /* Style for completed tasks */
 .completed {
   text-decoration: line-through;
