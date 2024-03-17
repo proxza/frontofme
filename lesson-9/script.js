@@ -89,7 +89,7 @@ const saveTodos = () => {
 // Now we update our todos array initialization
 todos = loadTodos();
 
-// Переключатели для сортировки по приоритету и дедлайну
+// Switches for sorting by priority and deadline
 let prioritySortStatus = false;
 let deadlineSortStatus = false;
 
