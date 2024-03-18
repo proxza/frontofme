@@ -1,20 +1,19 @@
 <script>
-  export let name;
-  let color = "black";
+  let tasks = { id: 1, title: "Task 1", desc: "Do something", status: 0 }, { id: 2, title: "Task 2", desc: "Do something new", status: 1 }, { id: 3, title: "Task 3", desc: "Something wrong", status: 1 }, { id: 4, title: "Task 4", desc: "Complete", status: 2 }, { id: 5, title: "Task 5", desc: ".....", status: 0 }, main: { id: 6, title: "Clean", desc: "Clean at the home", status: 0 }};
 
-  const changeColor = () => {
-    const colors = ["black", "blue", "red", "yellow", "green", "cian", "white", "purple"];
-    let randomColor = Math.floor(Math.random() * color.length);
-
-    color = colors[randomColor];
-  };
+  console.log(tasks);
 </script>
 
 <main>
-  <h1>Hello {name}!</h1>
+  <h1>Hello!</h1>
   <p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
-  <p>Color is: {color}</p>
-  <p><button on:click={changeColor}>Change Color</button></p>
+  {#each tasks as task}
+    <div>
+      <h1>{task.title}</h1>
+      <p>Id: {task.id}</p>
+      <p>Id: {task.desc}</p>
+    </div>
+  {/each}
 </main>
 
 <style>
