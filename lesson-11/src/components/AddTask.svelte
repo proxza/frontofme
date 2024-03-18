@@ -6,8 +6,10 @@
   let deadline = "";
 
   function addNewTask() {
-    tasks.addTask({ id: Date.now(), title, priority: Number(priority), deadline, status: false });
-    // Очистка формы
+    let newDateString = tasks.changeDateFormat(deadline);
+
+    tasks.addTask({ id: Date.now(), title, priority: Number(priority), deadline: newDateString, status: false });
+    // Form cleaning
     title = "";
     priority = 1;
     deadline = "";
