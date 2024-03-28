@@ -1,63 +1,78 @@
-html, body {
-	position: relative;
-	width: 100%;
-	height: 100%;
-}
-
+html,
 body {
-	color: #333;
-	margin: 0;
-	padding: 8px;
-	box-sizing: border-box;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #153677, #4e085f);
 }
 
-a {
-	color: rgb(0,100,200);
-	text-decoration: none;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
-a:hover {
-	text-decoration: underline;
+span {
+  background: transparent;
 }
 
-a:visited {
-	color: rgb(0,80,160);
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  padding: 20px;
 }
 
-label {
-	display: block;
+.main-photo {
+  width: 100%; /* or a fixed size, width: 300px; */
+  max-width: 900px; /* Maximum image width */
+  height: 600px; /* Fixed height */
+  object-fit: cover; /* Cropping an image to preserve aspect ratio */
+  border-radius: 10px;
 }
 
-input, button, select, textarea {
-	font-family: inherit;
-	font-size: inherit;
-	-webkit-padding: 0.4em 0;
-	padding: 0.4em;
-	margin: 0 0 0.5em 0;
-	box-sizing: border-box;
-	border: 1px solid #ccc;
-	border-radius: 2px;
+.small-photo {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
 }
 
-input:disabled {
-	color: #ccc;
+.photos-carousel {
+  display: flex; /* Располагает дочерние элементы в ряд */
+  overflow-x: auto; /* Добавляет прокрутку по горизонтали, если элементы не помещаются */
+  gap: 10px; /* Расстояние между фотографиями */
+  padding: 10px 0; /* Вертикальный отступ для карусели */
+}
+
+.photos-carousel img {
+  flex: 0 0 auto; /* Элементы не растягиваются и не сжимаются, но могут быть базовой ширины */
+  width: 200px; /* Фиксированная ширина для каждого изображения */
+  height: 150px; /* Фиксированная высота для каждого изображения */
+  object-fit: cover; /* Обеспечивает, что изображения будут обрезаны для подгонки, сохраняя аспект */
+}
+
+.description {
+  align-self: flex-start;
+  margin: 5px 450px;
 }
 
 button {
-	color: #333;
-	background-color: #f4f4f4;
-	outline: none;
+  color: #333;
+  background-color: #f4f4f4;
+  outline: none;
 }
 
 button:disabled {
-	color: #999;
+  color: #999;
 }
 
 button:not(:disabled):active {
-	background-color: #ddd;
+  background-color: #ddd;
 }
 
 button:focus {
-	border-color: #666;
+  border-color: #666;
 }
