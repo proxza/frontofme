@@ -1,0 +1,3566 @@
+[
+  {
+    "artistName": "Besomorph",
+    "trackName": "Army"
+  },
+  {
+    "artistName": "Lely45",
+    "trackName": "Восемь"
+  },
+  {
+    "artistName": "NUVILICES",
+    "trackName": "pinball"
+  },
+  {
+    "artistName": "Intelligency",
+    "trackName": "August"
+  },
+  {
+    "artistName": "plenka",
+    "trackName": "When You Find Me (Bonus Track)"
+  },
+  {
+    "artistName": "Моя Мишель",
+    "trackName": "Пташка"
+  },
+  {
+    "artistName": "Канги",
+    "trackName": "Голова"
+  },
+  {
+    "artistName": "Markul",
+    "trackName": "Cuba Libre"
+  },
+  {
+    "artistName": "Тима Белорусских",
+    "trackName": "Фотоплёнка"
+  },
+  {
+    "artistName": "Тима Белорусских",
+    "trackName": "Найду тебя"
+  },
+  {
+    "artistName": "Тима Белорусских",
+    "trackName": "Поезда"
+  },
+  {
+    "artistName": "Oscar and the Wolf",
+    "trackName": "You're Mine"
+  },
+  {
+    "artistName": "GAWNE",
+    "trackName": "In My Bones"
+  },
+  {
+    "artistName": "NF",
+    "trackName": "CLOUDS"
+  },
+  {
+    "artistName": "Henry Neeson",
+    "trackName": "She Doesn't Mind II"
+  },
+  {
+    "artistName": "Тима Белорусских",
+    "trackName": "В последний раз"
+  },
+  {
+    "artistName": "The Tech Thieves",
+    "trackName": "Golden Throne"
+  },
+  {
+    "artistName": "Тима Белорусских",
+    "trackName": "Привычка убегать"
+  },
+  {
+    "artistName": "Noro",
+    "trackName": "Deep End"
+  },
+  {
+    "artistName": "MATRANG",
+    "trackName": "О мой Бог"
+  },
+  {
+    "artistName": "Savage Garden",
+    "trackName": "To the Moon & Back"
+  },
+  {
+    "artistName": "OsMan",
+    "trackName": "Look At The Sky"
+  },
+  {
+    "artistName": "Joyner Lucas",
+    "trackName": "I Love"
+  },
+  {
+    "artistName": "Stromae",
+    "trackName": "Formidable"
+  },
+  {
+    "artistName": "Paramore",
+    "trackName": "Misery Business"
+  },
+  {
+    "artistName": "Millbrook",
+    "trackName": "Choices (feat. Nova Sky)"
+  },
+  {
+    "artistName": "Bäsello",
+    "trackName": "Lordly"
+  },
+  {
+    "artistName": "Zivert",
+    "trackName": "смех и грех"
+  },
+  {
+    "artistName": "Имя артиста не найдено",
+    "trackName": "Название трека не найдено"
+  },
+  {
+    "artistName": "DJ SMASH",
+    "trackName": "CO2"
+  },
+  {
+    "artistName": "twenty one pilots",
+    "trackName": "Message Man"
+  },
+  {
+    "artistName": "MEDUZA",
+    "trackName": "Tell It To My Heart (feat. Hozier)"
+  },
+  {
+    "artistName": "Silent Child",
+    "trackName": "Strange"
+  },
+  {
+    "artistName": "The People's Thieves",
+    "trackName": "Now That We're Alone"
+  },
+  {
+    "artistName": "Orjan Nilsen",
+    "trackName": "The Chosen One"
+  },
+  {
+    "artistName": "Имя артиста не найдено",
+    "trackName": "Название трека не найдено"
+  },
+  {
+    "artistName": "The Tech Thieves",
+    "trackName": "Enough"
+  },
+  {
+    "artistName": "Red",
+    "trackName": "Tech N9ne - Strangeland"
+  },
+  {
+    "artistName": "Tech N9ne",
+    "trackName": "Blackened The Sun"
+  },
+  {
+    "artistName": "Tech N9Ne",
+    "trackName": "Happy Ending"
+  },
+  {
+    "artistName": "Cut Off",
+    "trackName": "Lonely"
+  },
+  {
+    "artistName": "Тима Белорусских",
+    "trackName": "Возвращаться уже поздно"
+  },
+  {
+    "artistName": "Имя артиста не найдено",
+    "trackName": "Название трека не найдено"
+  },
+  {
+    "artistName": "THYPONYX",
+    "trackName": "Pon De Replay"
+  },
+  {
+    "artistName": "Jauz",
+    "trackName": "Deeper Love (Extended Mix)"
+  },
+  {
+    "artistName": "Loud Luxury",
+    "trackName": "Like Gold (feat. Stephen Puth)"
+  },
+  {
+    "artistName": "Alis Shuka",
+    "trackName": "Not About Us (Byjoelmichael Remix)"
+  },
+  {
+    "artistName": "DJ Dark & Mose N",
+    "trackName": "Strong Enough (Radio Edit)"
+  },
+  {
+    "artistName": "Честер Небро",
+    "trackName": "По белому"
+  },
+  {
+    "artistName": "Tech N9ne",
+    "trackName": "Burn It Down (feat. Ryan Bradley)"
+  },
+  {
+    "artistName": "Harrison",
+    "trackName": "Cry Me A River"
+  },
+  {
+    "artistName": "Vanotek",
+    "trackName": "Back to Me (feat. Eneli)"
+  },
+  {
+    "artistName": "KVPV",
+    "trackName": "Step By Step"
+  },
+  {
+    "artistName": "Tech N9ne Collabos",
+    "trackName": "Dysfunctional"
+  },
+  {
+    "artistName": "Stromae",
+    "trackName": "Fils de joie"
+  },
+  {
+    "artistName": "bennytheghost",
+    "trackName": "Papercut (feat. Calica)"
+  },
+  {
+    "artistName": "MEDUZA",
+    "trackName": "Bad Memories (feat. Elley Duhé & FAST BOY)"
+  },
+  {
+    "artistName": "Linkin Park",
+    "trackName": "Bleed It Out"
+  },
+  {
+    "artistName": "The Rasmus",
+    "trackName": "No Fear"
+  },
+  {
+    "artistName": "John Williams",
+    "trackName": "The Imperial March (Darth Vader's Theme)"
+  },
+  {
+    "artistName": "CAKE",
+    "trackName": "Frank Sinatra"
+  },
+  {
+    "artistName": "Freaks & Geeks",
+    "trackName": "Elemental"
+  },
+  {
+    "artistName": "Mushmellow",
+    "trackName": "Rise"
+  },
+  {
+    "artistName": "Карандаш feat. Lenin",
+    "trackName": "Небо"
+  },
+  {
+    "artistName": "Mushmellow",
+    "trackName": "Black and White"
+  },
+  {
+    "artistName": "Три дня дождя",
+    "trackName": "Смыслы"
+  },
+  {
+    "artistName": "Tiësto",
+    "trackName": "Don't Be Shy"
+  },
+  {
+    "artistName": "Bastion",
+    "trackName": "Shapes"
+  },
+  {
+    "artistName": "Loc-Dog",
+    "trackName": "Снимки"
+  },
+  {
+    "artistName": "Loc-Dog",
+    "trackName": "Делать дело"
+  },
+  {
+    "artistName": "Loc-Dog",
+    "trackName": "Присел и пиздец"
+  },
+  {
+    "artistName": "Fox Stevenson",
+    "trackName": "Manage"
+  },
+  {
+    "artistName": "Koven",
+    "trackName": "Silence"
+  },
+  {
+    "artistName": "Charlie Puth",
+    "trackName": "Attention (Acoustic)"
+  },
+  {
+    "artistName": "SCREAMING ON THE GLOBE ",
+    "trackName": "Masked Wolf - Astronaut In The Ocean (Emre Kabak x Sercan Özkan Remix )"
+  },
+  {
+    "artistName": "David Guetta",
+    "trackName": "Love Don't Let Me Go"
+  },
+  {
+    "artistName": "Culture Shock",
+    "trackName": "Discotheque"
+  },
+  {
+    "artistName": "Architects",
+    "trackName": "Dead Butterflies"
+  },
+  {
+    "artistName": "Until I Wake",
+    "trackName": "Octane"
+  },
+  {
+    "artistName": "Macklemore & Ryan Lewis",
+    "trackName": "Can't Hold Us (feat. Ray Dalton)"
+  },
+  {
+    "artistName": "Rag'n'Bone Man",
+    "trackName": "Skin (Wilkinson Remix)"
+  },
+  {
+    "artistName": "The Weeknd",
+    "trackName": "Starboy (feat. Daft Punk)"
+  },
+  {
+    "artistName": "Coolio",
+    "trackName": "Gangsta's Paradise (feat. L.V.)"
+  },
+  {
+    "artistName": "The Rasmus",
+    "trackName": "Shot"
+  },
+  {
+    "artistName": "Три дня дождя",
+    "trackName": "Отпускай"
+  },
+  {
+    "artistName": "Filatov & Karas",
+    "trackName": "Au Au"
+  },
+  {
+    "artistName": "Blind Channel",
+    "trackName": "Dark Side"
+  },
+  {
+    "artistName": "BCee",
+    "trackName": "In the Moment (Monrroe Remix)"
+  },
+  {
+    "artistName": "Limp Bizkit",
+    "trackName": "Rollin' (Air Raid Vehicle)"
+  },
+  {
+    "artistName": "BROHM",
+    "trackName": "One More Night"
+  },
+  {
+    "artistName": "AVAION",
+    "trackName": "Pieces"
+  },
+  {
+    "artistName": "BADFLITE",
+    "trackName": "High Love (feat. Kyle Reynolds)"
+  },
+  {
+    "artistName": "Dj Smash",
+    "trackName": "БЕГИ (feat. Poët)"
+  },
+  {
+    "artistName": "Loqiemean",
+    "trackName": "На Боль 2022"
+  },
+  {
+    "artistName": "Loqiemean",
+    "trackName": "Мёртвые Кролики"
+  },
+  {
+    "artistName": "Loqiemean",
+    "trackName": "Венки На Трассе"
+  },
+  {
+    "artistName": "Dennis Lloyd",
+    "trackName": "Nevermind"
+  },
+  {
+    "artistName": "Влади",
+    "trackName": "Краски не сгущайте"
+  },
+  {
+    "artistName": "Влади",
+    "trackName": "Закапывать себя (feat. Loqiemean)"
+  },
+  {
+    "artistName": "Влади",
+    "trackName": "Обзывать"
+  },
+  {
+    "artistName": "Влади",
+    "trackName": "Как это блядь возможно"
+  },
+  {
+    "artistName": "Влади",
+    "trackName": "Из Москвы (Рай на острове)"
+  },
+  {
+    "artistName": "Loqiemean",
+    "trackName": "Мартышка и Технологии"
+  },
+  {
+    "artistName": "Loqiemean",
+    "trackName": "Муха"
+  },
+  {
+    "artistName": "Loqiemean",
+    "trackName": "Потом"
+  },
+  {
+    "artistName": "Vanotek",
+    "trackName": "Tell Me Who (feat. ENELI)"
+  },
+  {
+    "artistName": "Måneskin",
+    "trackName": "Beggin'"
+  },
+  {
+    "artistName": "MONSS",
+    "trackName": "FLUTE"
+  },
+  {
+    "artistName": "Земфира",
+    "trackName": "∞"
+  },
+  {
+    "artistName": "Five Finger Death Punch",
+    "trackName": "Wrong Side of Heaven"
+  },
+  {
+    "artistName": "Rihanna",
+    "trackName": "Don't Stop The Music"
+  },
+  {
+    "artistName": "Filatov & Karas",
+    "trackName": "Give It Away"
+  },
+  {
+    "artistName": "Tech N9ne",
+    "trackName": "Caribou Lou"
+  },
+  {
+    "artistName": "Monoir",
+    "trackName": "3 to 1"
+  },
+  {
+    "artistName": "Tove Lo",
+    "trackName": "How Long"
+  },
+  {
+    "artistName": "Fox Stevenson",
+    "trackName": "Don't Care Crown"
+  },
+  {
+    "artistName": "Alok",
+    "trackName": "Don't Say Goodbye"
+  },
+  {
+    "artistName": "Paramore",
+    "trackName": "Decode (Twilight Soundtrack Version)"
+  },
+  {
+    "artistName": "Besomorph",
+    "trackName": "Back from the Dead"
+  },
+  {
+    "artistName": "Limp Bizkit",
+    "trackName": "My Way"
+  },
+  {
+    "artistName": "Gnarls Barkley",
+    "trackName": "Crazy"
+  },
+  {
+    "artistName": "Gorillaz",
+    "trackName": "Feel Good Inc."
+  },
+  {
+    "artistName": "P!NK",
+    "trackName": "Try"
+  },
+  {
+    "artistName": "Nelly Furtado",
+    "trackName": "Say It Right"
+  },
+  {
+    "artistName": "Ed Marquis",
+    "trackName": "Don't Stop the Music"
+  },
+  {
+    "artistName": "Леша Свик",
+    "trackName": "Домой"
+  },
+  {
+    "artistName": "Тима Белорусских",
+    "trackName": "Не меняй"
+  },
+  {
+    "artistName": "I Need It",
+    "trackName": "I Need It (feat. SHELLS)"
+  },
+  {
+    "artistName": "The Score",
+    "trackName": "Fire"
+  },
+  {
+    "artistName": "Micheletto",
+    "trackName": "Anything For You (Radio Edit)"
+  },
+  {
+    "artistName": "Twin",
+    "trackName": "Outro (Haltet die Fresse)"
+  },
+  {
+    "artistName": "Vanotek",
+    "trackName": "Tell Me Who [Slider & Magnit Remix] (feat. Eneli)"
+  },
+  {
+    "artistName": "Filatov & Karas",
+    "trackName": "Tell It To My Heart"
+  },
+  {
+    "artistName": "NILETTO",
+    "trackName": "Someone like you"
+  },
+  {
+    "artistName": "David Guetta",
+    "trackName": "Would I Lie to You (Extended)"
+  },
+  {
+    "artistName": "Pascal Junior",
+    "trackName": "Post Malone - Take What You Want (Pascal Junior Remix)"
+  },
+  {
+    "artistName": "MARUV",
+    "trackName": "ETL"
+  },
+  {
+    "artistName": "Sam Smith",
+    "trackName": "Unholy"
+  },
+  {
+    "artistName": "ryscu",
+    "trackName": "Collide"
+  },
+  {
+    "artistName": "просто Лера",
+    "trackName": "Инопланетяне"
+  },
+  {
+    "artistName": "inverness",
+    "trackName": "Lost My Mind"
+  },
+  {
+    "artistName": "SuicideSheeep",
+    "trackName": "Meiko - Leave The Lights On (Krot Remix)"
+  },
+  {
+    "artistName": "Inova",
+    "trackName": "Insomnia"
+  },
+  {
+    "artistName": "ChipaChip",
+    "trackName": "Постепенно (feat. NaCl)"
+  },
+  {
+    "artistName": "Канги",
+    "trackName": "Много проблем"
+  },
+  {
+    "artistName": "DJ Goja",
+    "trackName": "I Never Let You Go"
+  },
+  {
+    "artistName": "Smash Into Pieces",
+    "trackName": "All Eyes On You"
+  },
+  {
+    "artistName": "KVPV",
+    "trackName": "Poison"
+  },
+  {
+    "artistName": "Oxxxymiron",
+    "trackName": "THE STORY OF ALISHER"
+  },
+  {
+    "artistName": "Loqiemean",
+    "trackName": "Роспел"
+  },
+  {
+    "artistName": "Fred again..",
+    "trackName": "Eyelar (shutters)"
+  },
+  {
+    "artistName": "NOTSOBAD",
+    "trackName": "Ole Ole"
+  },
+  {
+    "artistName": "ChipaChip",
+    "trackName": "Вместо тебя"
+  },
+  {
+    "artistName": "Триада",
+    "trackName": "Она не узнает"
+  },
+  {
+    "artistName": "Zubi",
+    "trackName": "my mind"
+  },
+  {
+    "artistName": "Luxor",
+    "trackName": "No Cry (feat. Люся Чеботина)"
+  },
+  {
+    "artistName": "Тима Белорусских",
+    "trackName": "О простом"
+  },
+  {
+    "artistName": "MATRANG",
+    "trackName": "От луны до Марса"
+  },
+  {
+    "artistName": "Grivina",
+    "trackName": "Ja khochu"
+  },
+  {
+    "artistName": "Program7Skanel9Angel Word7Red4Cyber0Computer_Died",
+    "trackName": "Deep Mind - Open Your Eyes"
+  },
+  {
+    "artistName": "Lorin Rymbu & Denis Rynda",
+    "trackName": "LP - When We're High (Lorin Rymbu & Denis Rynda Remix)"
+  },
+  {
+    "artistName": "BB Cooper",
+    "trackName": "Blame"
+  },
+  {
+    "artistName": "kavabanga Depo kolibri",
+    "trackName": "Снег"
+  },
+  {
+    "artistName": "Besomorph",
+    "trackName": "Hate Me (feat. FJØRA)"
+  },
+  {
+    "artistName": "Strings Attached",
+    "trackName": "Strings Attached"
+  },
+  {
+    "artistName": "Coldsteeze",
+    "trackName": "Don't leave me here"
+  },
+  {
+    "artistName": "ChipaChip",
+    "trackName": "Карантин (feat. Daffy)"
+  },
+  {
+    "artistName": "Missy Elliott",
+    "trackName": "Get Ur Freak On"
+  },
+  {
+    "artistName": "Имя артиста не найдено",
+    "trackName": "Название трека не найдено"
+  },
+  {
+    "artistName": "ChipaChip",
+    "trackName": "Глобус (DJ Vader One Scratch)"
+  },
+  {
+    "artistName": "ChipaChip",
+    "trackName": "Рекорд (feat. Диэмси)"
+  },
+  {
+    "artistName": "ChipaChip",
+    "trackName": "Лирика закрытых глаз (feat. Артём Татищевский)"
+  },
+  {
+    "artistName": "ChipaChip",
+    "trackName": "Как ни крути (feat. Чифира)"
+  },
+  {
+    "artistName": "ChipaChip",
+    "trackName": "Пасмурный город (feat. KAVABANGA)"
+  },
+  {
+    "artistName": "Лёша Маэстро",
+    "trackName": "Решено (feat. Промзона)"
+  },
+  {
+    "artistName": "Stileto",
+    "trackName": "Cravin'"
+  },
+  {
+    "artistName": "Morandi",
+    "trackName": "Save Me"
+  },
+  {
+    "artistName": "kavabanga Depo kolibri",
+    "trackName": "Не говори"
+  },
+  {
+    "artistName": "КУОК",
+    "trackName": "Отвали, я в норме"
+  },
+  {
+    "artistName": "КУОК",
+    "trackName": "Ножевое"
+  },
+  {
+    "artistName": "КУОК",
+    "trackName": "Слова, которых нет"
+  },
+  {
+    "artistName": "КУОК",
+    "trackName": "Метаморфозы"
+  },
+  {
+    "artistName": "Markul",
+    "trackName": "Rick James (feat. ANIKV)"
+  },
+  {
+    "artistName": "T3NZU",
+    "trackName": "Beggin'"
+  },
+  {
+    "artistName": "Pham",
+    "trackName": "Movements (feat. Yung Fusion)"
+  },
+  {
+    "artistName": "Neoni",
+    "trackName": "Never Say Die"
+  },
+  {
+    "artistName": "Тима Белорусских",
+    "trackName": "Привет давай перевернем"
+  },
+  {
+    "artistName": "Три дня дождя",
+    "trackName": "В кого ты влюблена"
+  },
+  {
+    "artistName": "Sos Music",
+    "trackName": "YA NINA - Sugar (Sedat Erkan & Millforlife Remix)"
+  },
+  {
+    "artistName": "Desren",
+    "trackName": "Fast"
+  },
+  {
+    "artistName": "Cadmium",
+    "trackName": "Not Your Baby"
+  },
+  {
+    "artistName": "grandson",
+    "trackName": "WWIII"
+  },
+  {
+    "artistName": "NOTD",
+    "trackName": "Nobody"
+  },
+  {
+    "artistName": "DJ Goja",
+    "trackName": "Cause I`m Crazy"
+  },
+  {
+    "artistName": "Проект Ne2Da. Noize MC",
+    "trackName": "Noize MC - Лебединое озеро (Студийная версия 2023)"
+  },
+  {
+    "artistName": "Ash Cartell",
+    "trackName": "iLoveittho (feat. ZLYX)"
+  },
+  {
+    "artistName": "Michael Jackson",
+    "trackName": "Dirty Diana"
+  },
+  {
+    "artistName": "Miyagi & Эндшпиль",
+    "trackName": "Silhouette"
+  },
+  {
+    "artistName": "Black Rainbow",
+    "trackName": "George Michael - Jesus To A Child (Maxim Andreev Remix)"
+  },
+  {
+    "artistName": "Fred again..",
+    "trackName": "Marea (we’ve lost dancing)"
+  },
+  {
+    "artistName": "Michael Jackson",
+    "trackName": "In the Closet"
+  },
+  {
+    "artistName": "КУОК",
+    "trackName": "Перезагрузка"
+  },
+  {
+    "artistName": "Otnicka",
+    "trackName": "Memories"
+  },
+  {
+    "artistName": "Ed Marquis",
+    "trackName": "Pon De Replay"
+  },
+  {
+    "artistName": "Minelli",
+    "trackName": "Confused"
+  },
+  {
+    "artistName": "Vanotek",
+    "trackName": "Cherry Lips (feat. Mikayla)"
+  },
+  {
+    "artistName": "Баста",
+    "trackName": "Шар (feat. Смоки Мо)"
+  },
+  {
+    "artistName": "Imanbek",
+    "trackName": "Ocean Of Tears"
+  },
+  {
+    "artistName": "DJ Antonio",
+    "trackName": "Secret (Until the World Ends)"
+  },
+  {
+    "artistName": "Bentley Grey",
+    "trackName": "Kosheen - Catch (Bentley Grey Remix)"
+  },
+  {
+    "artistName": "L.B. One",
+    "trackName": "Across the Water (feat. Laenz)"
+  },
+  {
+    "artistName": "Макс Корж",
+    "trackName": "Это наш путь"
+  },
+  {
+    "artistName": "Rauf & Faik",
+    "trackName": "Vechera"
+  },
+  {
+    "artistName": "Unknown Brain",
+    "trackName": "Begin Again"
+  },
+  {
+    "artistName": "КУОК",
+    "trackName": "Дофамин"
+  },
+  {
+    "artistName": "BROHM",
+    "trackName": "Love the Way You Lie"
+  },
+  {
+    "artistName": "Tom Enzy",
+    "trackName": "Ice & Cold"
+  },
+  {
+    "artistName": "Harrison",
+    "trackName": "Best of You"
+  },
+  {
+    "artistName": "CloudKid",
+    "trackName": "Billie Eilish - Therefore I Am (UNDREAM Remix)"
+  },
+  {
+    "artistName": "Rose Ghould",
+    "trackName": "Playing with Flames"
+  },
+  {
+    "artistName": "Смоки Мо",
+    "trackName": "УЛЕТАЮ"
+  },
+  {
+    "artistName": "Смоки Мо",
+    "trackName": "СЕРДЦЕ НАПОПОЛАМ"
+  },
+  {
+    "artistName": "Silent Child",
+    "trackName": "Happy"
+  },
+  {
+    "artistName": "Sam Feldt",
+    "trackName": "Show Me Love (EDX Remix / Radio Edit) (feat. Kimberly Anne)"
+  },
+  {
+    "artistName": "KALUSH",
+    "trackName": "Stefania (Kalush Orchestra)"
+  },
+  {
+    "artistName": "Eagles",
+    "trackName": "Hotel California"
+  },
+  {
+    "artistName": "D12",
+    "trackName": "Girls"
+  },
+  {
+    "artistName": "The Project",
+    "trackName": "Busta Rhymes Feat Eminem - I'll Hurt You"
+  },
+  {
+    "artistName": "KERTSCHER",
+    "trackName": "Tokyo by Night"
+  },
+  {
+    "artistName": "BB Cooper",
+    "trackName": "Does It Feel Nice?"
+  },
+  {
+    "artistName": "Papa Roach",
+    "trackName": "Kill The Noise"
+  },
+  {
+    "artistName": "KVPV",
+    "trackName": "Money"
+  },
+  {
+    "artistName": "Stileto",
+    "trackName": "Immortal"
+  },
+  {
+    "artistName": "ThxSoMch",
+    "trackName": "SPIT IN MY FACE!"
+  },
+  {
+    "artistName": "Omido",
+    "trackName": "Me & My Demons"
+  },
+  {
+    "artistName": "Why We Lose",
+    "trackName": "Why We Lose"
+  },
+  {
+    "artistName": "Dennis Lloyd",
+    "trackName": "Berlin"
+  },
+  {
+    "artistName": "Nostalgic Jams",
+    "trackName": "Tory Lanez - Initiation (Prod. BenZel)"
+  },
+  {
+    "artistName": "Dwin",
+    "trackName": "One More Night"
+  },
+  {
+    "artistName": "Dallerium",
+    "trackName": "How Do I Sleep Now (feat. Olive)"
+  },
+  {
+    "artistName": "John Summit",
+    "trackName": "Human [Aaron Hibell Remix] (feat. Echoes)"
+  },
+  {
+    "artistName": "HUDSUN",
+    "trackName": "Run"
+  },
+  {
+    "artistName": "Nebezao feat. Андрей Леницкий",
+    "trackName": "Как ты там?"
+  },
+  {
+    "artistName": "Adriano Celentano",
+    "trackName": "Ja Tebia Liubliu"
+  },
+  {
+    "artistName": "Adriano Celentano",
+    "trackName": "Ancora Vivo"
+  },
+  {
+    "artistName": "Adriano Celentano",
+    "trackName": "Apri Il Cuore"
+  },
+  {
+    "artistName": "Adriano Celentano",
+    "trackName": "Quel Punto"
+  },
+  {
+    "artistName": "Adriano Celentano",
+    "trackName": "Così Come Sei"
+  },
+  {
+    "artistName": "NGTY",
+    "trackName": "What We Had"
+  },
+  {
+    "artistName": "Dennis Lloyd",
+    "trackName": "Act II: Can't Go Back"
+  },
+  {
+    "artistName": "Erika Kretinina",
+    "trackName": "Иван Дорн и Кравц - Прониклась Мной [2013]"
+  },
+  {
+    "artistName": "Tech N9ne",
+    "trackName": "I Been Thru A Lot (feat. Stige)"
+  },
+  {
+    "artistName": "Fox Stevenson",
+    "trackName": "Enemy Brain"
+  },
+  {
+    "artistName": "Fox Stevenson",
+    "trackName": "For The Taking"
+  },
+  {
+    "artistName": "Fox Stevenson",
+    "trackName": "Get Through"
+  },
+  {
+    "artistName": "Fox Stevenson",
+    "trackName": "Still Here"
+  },
+  {
+    "artistName": "Каспийский Груз",
+    "trackName": "Guantanamera (Izzamuzzic Remix)"
+  },
+  {
+    "artistName": "Diana Goldberg",
+    "trackName": "GAME OVER"
+  },
+  {
+    "artistName": "MUJEVA",
+    "trackName": "Между нами ничего нет"
+  },
+  {
+    "artistName": "ACRAZE",
+    "trackName": "Do It To It (Sub Focus Remix) (feat. Cherish & Sub Focus)"
+  },
+  {
+    "artistName": "Harrison",
+    "trackName": "Praise You"
+  },
+  {
+    "artistName": "КУОК",
+    "trackName": "Помолчим об этом"
+  },
+  {
+    "artistName": "The Hatters",
+    "trackName": "Последний герой"
+  },
+  {
+    "artistName": "Dневник Dжессики",
+    "trackName": "Когда ты улыбаешься"
+  },
+  {
+    "artistName": "plagueinside",
+    "trackName": "Обсудим за столом"
+  },
+  {
+    "artistName": "Ed Sheeran",
+    "trackName": "Bad Habits (feat. Bring Me The Horizon)"
+  },
+  {
+    "artistName": "O Problema É GRAVE",
+    "trackName": "Lil Nas X, Jack Harlow - INDUSTRY BABY (LVKS! Remix)"
+  },
+  {
+    "artistName": "Mary J. Blige",
+    "trackName": "The One (Main) (feat. Drake)"
+  },
+  {
+    "artistName": "Dennis Lloyd",
+    "trackName": "Leftovers"
+  },
+  {
+    "artistName": "Jake Daniels",
+    "trackName": "Wolves"
+  },
+  {
+    "artistName": "Unlike Pluto",
+    "trackName": "Intoxicate Me"
+  },
+  {
+    "artistName": "Soner Karaca",
+    "trackName": "Secrets"
+  },
+  {
+    "artistName": "DOROFEEVA",
+    "trackName": "Щоб не було"
+  },
+  {
+    "artistName": "Darrem",
+    "trackName": "Новый год"
+  },
+  {
+    "artistName": "Nicebeatzprod",
+    "trackName": "Et je dance"
+  },
+  {
+    "artistName": "Morandi",
+    "trackName": "Angels (Love Is The Answer)"
+  },
+  {
+    "artistName": "Седьмой лепесток",
+    "trackName": "Седьмой лепесток"
+  },
+  {
+    "artistName": "Sharliz",
+    "trackName": "Танцы На Стёклах"
+  },
+  {
+    "artistName": "Tech N9ne Collabos",
+    "trackName": "We Just Wanna Party (feat. Rittz & Darrein Safron)"
+  },
+  {
+    "artistName": "Harrison",
+    "trackName": "Breathe Me In"
+  },
+  {
+    "artistName": "Chico Rose",
+    "trackName": "Somebody's Watching Me"
+  },
+  {
+    "artistName": "Danko",
+    "trackName": "Self Control"
+  },
+  {
+    "artistName": "Cordae",
+    "trackName": "Parables (Remix) (feat. Eminem)"
+  },
+  {
+    "artistName": "Eminem",
+    "trackName": "Discombobulated"
+  },
+  {
+    "artistName": "Nu Aspect",
+    "trackName": "Things I Said"
+  },
+  {
+    "artistName": "Ilkay Sencan",
+    "trackName": "Superpowers (Dimitri Vegas Edit) (feat. Yoelle)"
+  },
+  {
+    "artistName": "Digitalz",
+    "trackName": "Beg for It"
+  },
+  {
+    "artistName": "Mushmellow",
+    "trackName": "Without You"
+  },
+  {
+    "artistName": "Mushmellow",
+    "trackName": "Christmas"
+  },
+  {
+    "artistName": "Fonetic",
+    "trackName": "В подлунном"
+  },
+  {
+    "artistName": "Fonetic",
+    "trackName": "Бег по кругу"
+  },
+  {
+    "artistName": "Gaullin",
+    "trackName": "Who You Are"
+  },
+  {
+    "artistName": "Captain Cuts",
+    "trackName": "Do You Think About Me (feat. Georgia Ku)"
+  },
+  {
+    "artistName": "Скриптонит",
+    "trackName": "Лепесток (feat. Сёстры)"
+  },
+  {
+    "artistName": "SICKOTOY",
+    "trackName": "Maria"
+  },
+  {
+    "artistName": "Kaan Pars",
+    "trackName": "Alone (feat. PANE)"
+  },
+  {
+    "artistName": "Dubstep N Trap ",
+    "trackName": "Eurythmics - Sweet Dreams (Notorious TRP Remix)"
+  },
+  {
+    "artistName": "Michael Jackson",
+    "trackName": "Who Is It"
+  },
+  {
+    "artistName": "Olivia Addams",
+    "trackName": "Stranger"
+  },
+  {
+    "artistName": "Spicyverse",
+    "trackName": "Deep End"
+  },
+  {
+    "artistName": "Alphaville",
+    "trackName": "Big in Japan"
+  },
+  {
+    "artistName": "Cour",
+    "trackName": "Stereo Love"
+  },
+  {
+    "artistName": "Besomage",
+    "trackName": "Survivor"
+  },
+  {
+    "artistName": "Dj Dark",
+    "trackName": "Unbreak My Heart (Radio Edit)"
+  },
+  {
+    "artistName": "TRITICUM",
+    "trackName": "When You Go Away"
+  },
+  {
+    "artistName": "Paranormal Attack",
+    "trackName": "Don't Waste Your Time"
+  },
+  {
+    "artistName": "Мэныч",
+    "trackName": "Мысли"
+  },
+  {
+    "artistName": "Калиюга",
+    "trackName": "Дыхание (feat. Валя Бирюкова)"
+  },
+  {
+    "artistName": "kavabanga",
+    "trackName": "Софиты (feat. ЭСЧЭ & Адвайта)"
+  },
+  {
+    "artistName": "Эсчевский",
+    "trackName": "Не выходил"
+  },
+  {
+    "artistName": "North Dee",
+    "trackName": "Опечатки (feat. ВолЭм Маис & ChipaChip)"
+  },
+  {
+    "artistName": "Та Сторона",
+    "trackName": "Капилляры"
+  },
+  {
+    "artistName": "Nessa Barrett",
+    "trackName": "dying on the inside"
+  },
+  {
+    "artistName": "Та Сторона",
+    "trackName": "Поломанные"
+  },
+  {
+    "artistName": "Руставели",
+    "trackName": "Человек (feat. МанифестЪ & Санчес)"
+  },
+  {
+    "artistName": "Руставели",
+    "trackName": "Кукушка"
+  },
+  {
+    "artistName": "Планка",
+    "trackName": "Забыла, не помню"
+  },
+  {
+    "artistName": "TRITICUM",
+    "trackName": "Gangster"
+  },
+  {
+    "artistName": "AREZRA",
+    "trackName": "Deep End"
+  },
+  {
+    "artistName": "Yves V",
+    "trackName": "Teenage Crime"
+  },
+  {
+    "artistName": "ZAYN",
+    "trackName": "Dusk Till Dawn (Brooks Remix) (feat. Sia)"
+  },
+  {
+    "artistName": "Madison Mars",
+    "trackName": "Out Of Touch (Madison Mars Edit)"
+  },
+  {
+    "artistName": "Confetti",
+    "trackName": "Dear God"
+  },
+  {
+    "artistName": "Neoni",
+    "trackName": "WONDERLAND"
+  },
+  {
+    "artistName": "PrototypeRaptor",
+    "trackName": "Vivaldi"
+  },
+  {
+    "artistName": "Ben Delay",
+    "trackName": "The Boy Is Mine (Radio Edit) (feat. Alexandra Prince)"
+  },
+  {
+    "artistName": "z1 Fm",
+    "trackName": "Morandi - Save Me ( Jenia Smile & Ser Twister Remix )"
+  },
+  {
+    "artistName": "Chester Page",
+    "trackName": "Twist in My Sobriety (Radio Edit)"
+  },
+  {
+    "artistName": "OSVISS",
+    "trackName": "Oxygen"
+  },
+  {
+    "artistName": "TRITICUM",
+    "trackName": "I Loved"
+  },
+  {
+    "artistName": "Sunday Scaries",
+    "trackName": "Chill Like That"
+  },
+  {
+    "artistName": "Silent Child",
+    "trackName": "Have My Back"
+  },
+  {
+    "artistName": "Noize MC",
+    "trackName": "Двадцатые годы"
+  },
+  {
+    "artistName": "Olivia Addams",
+    "trackName": "Sick Lullaby"
+  },
+  {
+    "artistName": "Linkin Park",
+    "trackName": "When They Come for Me"
+  },
+  {
+    "artistName": "Имя артиста не найдено",
+    "trackName": "Название трека не найдено"
+  },
+  {
+    "artistName": "Ирина Кайратовна",
+    "trackName": "Arriva (feat. Ирина Кайратовна)"
+  },
+  {
+    "artistName": "Freaks & Geeks",
+    "trackName": "Waiting For You"
+  },
+  {
+    "artistName": "Freaks & Geeks",
+    "trackName": "Freefalling"
+  },
+  {
+    "artistName": "NTL",
+    "trackName": "Когда хоронят молодых"
+  },
+  {
+    "artistName": "Триада",
+    "trackName": "Лебединая"
+  },
+  {
+    "artistName": "25/17",
+    "trackName": "Путник"
+  },
+  {
+    "artistName": "Kun - Gazda Csongor _ STEEL",
+    "trackName": "Queen - You Don't Fool Me ( Steel and White Cover Remix )"
+  },
+  {
+    "artistName": "Besomage",
+    "trackName": "I Will Survive"
+  },
+  {
+    "artistName": "БЕЗ ОБМЕЖЕНЬ",
+    "trackName": "24/02"
+  },
+  {
+    "artistName": "БЕЗ ОБМЕЖЕНЬ",
+    "trackName": "Не мовчи"
+  },
+  {
+    "artistName": "БЕЗ ОБМЕЖЕНЬ",
+    "trackName": "Тону"
+  },
+  {
+    "artistName": "Freaks & Geeks",
+    "trackName": "Pressure (feat. Flowanastasia)"
+  },
+  {
+    "artistName": "lonelysoul.",
+    "trackName": "Ready or Not (feat. cluda)"
+  },
+  {
+    "artistName": "Vin Veli",
+    "trackName": "Love (Radio Edit)"
+  },
+  {
+    "artistName": "Poylow",
+    "trackName": "Hate You"
+  },
+  {
+    "artistName": "Dynoro",
+    "trackName": "Obsessed"
+  },
+  {
+    "artistName": "The Rasmus",
+    "trackName": "Guilty"
+  },
+  {
+    "artistName": "King Iso",
+    "trackName": "Self Destruct (feat. Twista & Rittz)"
+  },
+  {
+    "artistName": "Izzamuzzic",
+    "trackName": "uunnssaaiidd"
+  },
+  {
+    "artistName": "Panuma",
+    "trackName": "Like Mmh"
+  },
+  {
+    "artistName": "TRFN",
+    "trackName": "Mine (feat. Siadou)"
+  },
+  {
+    "artistName": "Minelli",
+    "trackName": "Deep Sea (Extended Version)"
+  },
+  {
+    "artistName": "Alex Parker",
+    "trackName": "Sneakers & Weed (Radio Edit Cenzurat)"
+  },
+  {
+    "artistName": "Ilkay Sencan",
+    "trackName": "All The Things She Said"
+  },
+  {
+    "artistName": "RQntz",
+    "trackName": "Falling"
+  },
+  {
+    "artistName": "NTL",
+    "trackName": "Шаг в сторону"
+  },
+  {
+    "artistName": "По Аристотелю",
+    "trackName": "По Аристотелю"
+  },
+  {
+    "artistName": "Lil' Den",
+    "trackName": "Этажи (feat. Jerr)"
+  },
+  {
+    "artistName": "63 Регион",
+    "trackName": "Драма (feat. Red RC & L' Kitt)"
+  },
+  {
+    "artistName": "Имя артиста не найдено",
+    "trackName": "Название трека не найдено"
+  },
+  {
+    "artistName": "Deep Russia HQ",
+    "trackName": "t.A.T.u. - Зачем я (DJ Zhuk Remix)"
+  },
+  {
+    "artistName": "Freaks & Geeks",
+    "trackName": "Discovery"
+  },
+  {
+    "artistName": "Minelli",
+    "trackName": "Crazy"
+  },
+  {
+    "artistName": "Minelli",
+    "trackName": "Think About U"
+  },
+  {
+    "artistName": "Ed Sheeran",
+    "trackName": "Bad Habits"
+  },
+  {
+    "artistName": "The Pussycat Dolls",
+    "trackName": "Buttons"
+  },
+  {
+    "artistName": "Kelis",
+    "trackName": "Trick Me"
+  },
+  {
+    "artistName": "Madcon",
+    "trackName": "Beggin (original version)"
+  },
+  {
+    "artistName": "NF",
+    "trackName": "MOTTO"
+  },
+  {
+    "artistName": "NF",
+    "trackName": "HOPE"
+  },
+  {
+    "artistName": "Serge Devant",
+    "trackName": "Addicted (Radio Edit) (feat. Hadley)"
+  },
+  {
+    "artistName": "Busta Rhymes",
+    "trackName": "I Know What You Want (feat. Flipmode Squad)"
+  },
+  {
+    "artistName": "MJ the Musical - Original Broadway Cast Recording",
+    "trackName": "Billie Jean"
+  },
+  {
+    "artistName": "Ace of Base",
+    "trackName": "Happy Nation (Radio Edit)"
+  },
+  {
+    "artistName": "The Cardigans",
+    "trackName": "My Favourite Game"
+  },
+  {
+    "artistName": "Гости из будущего",
+    "trackName": "Ты где-то"
+  },
+  {
+    "artistName": "Infiniti",
+    "trackName": "Gde Ty (feat. D.I.P. Project)"
+  },
+  {
+    "artistName": "Deep Russia HQ",
+    "trackName": "Акула - Такая любовь (DJ Zhuk Remix)"
+  },
+  {
+    "artistName": "DJ Piligrim",
+    "trackName": "Ты Меня Забудь"
+  },
+  {
+    "artistName": "Имя артиста не найдено",
+    "trackName": "Название трека не найдено"
+  },
+  {
+    "artistName": "Moonlight",
+    "trackName": "Don't Speak"
+  },
+  {
+    "artistName": "Arc North",
+    "trackName": "The Revolution (Arc North Remix)"
+  },
+  {
+    "artistName": "MARUV",
+    "trackName": "Maria"
+  },
+  {
+    "artistName": "Елена Темникова",
+    "trackName": "Импульсы города"
+  },
+  {
+    "artistName": "DJ Fresh ",
+    "trackName": "Gold Dust (Fox Stevenson Remix)"
+  },
+  {
+    "artistName": "ZHU",
+    "trackName": "Working For It"
+  },
+  {
+    "artistName": "тринадцать карат",
+    "trackName": "больше не буду (feat. Три дня дождя)"
+  },
+  {
+    "artistName": "Eastblock Bitches",
+    "trackName": "Virus"
+  },
+  {
+    "artistName": "Саша Чемеров",
+    "trackName": "Любила"
+  },
+  {
+    "artistName": "VAVO",
+    "trackName": "Take Me Home"
+  },
+  {
+    "artistName": "Nu Aspect",
+    "trackName": "Words"
+  },
+  {
+    "artistName": "NBSPLV",
+    "trackName": "Lost Soul"
+  },
+  {
+    "artistName": "Miscris",
+    "trackName": "I Would Like"
+  },
+  {
+    "artistName": "Daniel Blume",
+    "trackName": "Out Of Time"
+  },
+  {
+    "artistName": "Christian French",
+    "trackName": "head first (Young Bombs remix)"
+  },
+  {
+    "artistName": "Максим Свобода",
+    "trackName": "Воздух на сигареты"
+  },
+  {
+    "artistName": "Demando",
+    "trackName": "Myself"
+  },
+  {
+    "artistName": "Rah-C",
+    "trackName": "Be Like Me"
+  },
+  {
+    "artistName": "One-T",
+    "trackName": "The Magic Key"
+  },
+  {
+    "artistName": "My Darkest Days",
+    "trackName": "Come Undone"
+  },
+  {
+    "artistName": "Kiki",
+    "trackName": "Heart of Stone"
+  },
+  {
+    "artistName": "The Black Eyed Peas",
+    "trackName": "Shut Up"
+  },
+  {
+    "artistName": "Blu Cantrell",
+    "trackName": "Breathe (Rap Version) (feat. Sean Paul)"
+  },
+  {
+    "artistName": "Vintage Bass",
+    "trackName": "Kill Em With Kindness"
+  },
+  {
+    "artistName": "Zeds Dead",
+    "trackName": "You Know (Radio Edit)"
+  },
+  {
+    "artistName": "Zeds Dead",
+    "trackName": "Where Did That Go"
+  },
+  {
+    "artistName": "Robby East",
+    "trackName": "Live Another Day (Extended Mix)"
+  },
+  {
+    "artistName": "MNI",
+    "trackName": "Eyes (feat. Jordan Shaw)"
+  },
+  {
+    "artistName": "Sulejman89",
+    "trackName": "Medina - You And I (Extended Version)"
+  },
+  {
+    "artistName": "Clare Stagg",
+    "trackName": "The Spell (Radio Edit)"
+  },
+  {
+    "artistName": "The Harmonic Vibe",
+    "trackName": "LP  - Tightrope (Regard Remix)"
+  },
+  {
+    "artistName": "KREC",
+    "trackName": "Искры (feat. Maestro A-Sid)"
+  },
+  {
+    "artistName": "KHAYAT",
+    "trackName": "Говорила"
+  },
+  {
+    "artistName": "Гости из будущего",
+    "trackName": "Зима в сердце"
+  },
+  {
+    "artistName": "Гости из будущего",
+    "trackName": "Я с тобой"
+  },
+  {
+    "artistName": "Тима Белорусских",
+    "trackName": "Отпусти"
+  },
+  {
+    "artistName": "Копюшон Ноу Мо",
+    "trackName": "Мотивэй"
+  },
+  {
+    "artistName": "DJ SMASH",
+    "trackName": "ПОЗВОНИ"
+  },
+  {
+    "artistName": "Martin Garrix",
+    "trackName": "Hero (DubVision Remix)"
+  },
+  {
+    "artistName": "Noize MC",
+    "trackName": "Сохрани мою речь (Из к/ф \"Сохрани мою речь навсегда\")"
+  },
+  {
+    "artistName": "Feint",
+    "trackName": "Let Me Go"
+  },
+  {
+    "artistName": "DOVI",
+    "trackName": "Почнемо знов"
+  },
+  {
+    "artistName": "Derouse",
+    "trackName": "В чем сила?"
+  },
+  {
+    "artistName": "ATL",
+    "trackName": "Забил"
+  },
+  {
+    "artistName": "HOLLYFLAME",
+    "trackName": "Pticej"
+  },
+  {
+    "artistName": "Big Daddy Wilson",
+    "trackName": "Ain’t No Slave"
+  },
+  {
+    "artistName": "Ayron Jones",
+    "trackName": "Baptized in Muddy Waters"
+  },
+  {
+    "artistName": "Falling In Reverse",
+    "trackName": "Watch The World Burn"
+  },
+  {
+    "artistName": "Falling In Reverse",
+    "trackName": "ZOMBIFIED"
+  },
+  {
+    "artistName": "Fame on Fire",
+    "trackName": "Black Widow (feat. Twiggy)"
+  },
+  {
+    "artistName": "Black Veil Brides",
+    "trackName": "In The End"
+  },
+  {
+    "artistName": "Three Days Grace",
+    "trackName": "So Called Life"
+  },
+  {
+    "artistName": "Catch Your Breath",
+    "trackName": "Shame On Me"
+  },
+  {
+    "artistName": "Asking Alexandria",
+    "trackName": "Where Did It Go?"
+  },
+  {
+    "artistName": "Sam Smith",
+    "trackName": "Unholy"
+  },
+  {
+    "artistName": "KNOX",
+    "trackName": "Look at Me Now"
+  },
+  {
+    "artistName": "Пропаганда",
+    "trackName": "Quanto Costa [Кванто Коста]"
+  },
+  {
+    "artistName": "Röyksopp",
+    "trackName": "Here She Comes Again"
+  },
+  {
+    "artistName": "Влади",
+    "trackName": "Самой большой страной"
+  },
+  {
+    "artistName": "kavabanga Depo kolibri",
+    "trackName": "Падали"
+  },
+  {
+    "artistName": "SLAVA MARLOW",
+    "trackName": "HOTEL TEBE SKAZAT..."
+  },
+  {
+    "artistName": "Falling In Reverse",
+    "trackName": "Losing My Life"
+  },
+  {
+    "artistName": "Asking Alexandria",
+    "trackName": "See What's On The Inside"
+  },
+  {
+    "artistName": "Las Olas",
+    "trackName": "Killing Me Softly"
+  },
+  {
+    "artistName": "NICKY ØDESSA",
+    "trackName": "Monster"
+  },
+  {
+    "artistName": "NICKY ØDESSA",
+    "trackName": "Aphrodite"
+  },
+  {
+    "artistName": "Zeds Dead",
+    "trackName": "Lights Out (feat. Atlas)"
+  },
+  {
+    "artistName": "NICKY ØDESSA",
+    "trackName": "Hotel of Love"
+  },
+  {
+    "artistName": "Falling In Reverse",
+    "trackName": "Voices In My Head"
+  },
+  {
+    "artistName": "Martin Garrix",
+    "trackName": "Hero"
+  },
+  {
+    "artistName": "Total",
+    "trackName": "Бьёт по глазам (DFM Mix)"
+  },
+  {
+    "artistName": "Oxxxymiron",
+    "trackName": "Всего лишь писатель"
+  },
+  {
+    "artistName": "Emre Kabak",
+    "trackName": "Fortune"
+  },
+  {
+    "artistName": "Розыгрыш (Из к/ф «Розыгрыш»)",
+    "trackName": "Давай приколемся"
+  },
+  {
+    "artistName": "Tech N9ne",
+    "trackName": "3D"
+  },
+  {
+    "artistName": "burgiata",
+    "trackName": "face2face - кошка"
+  },
+  {
+    "artistName": "Krec",
+    "trackName": "Еле дыша"
+  },
+  {
+    "artistName": "Falling In Reverse",
+    "trackName": "I'm Not A Vampire"
+  },
+  {
+    "artistName": "Пропаганда",
+    "trackName": "Так и быть"
+  },
+  {
+    "artistName": "Sub Focus",
+    "trackName": "Ray Of Sun"
+  },
+  {
+    "artistName": "Wahlstedt",
+    "trackName": "Heartbeat"
+  },
+  {
+    "artistName": "Atmosphere",
+    "trackName": "GodLovesUgly (Remix)"
+  },
+  {
+    "artistName": "Subsonic",
+    "trackName": "Need Me"
+  },
+  {
+    "artistName": "Порнофильмы",
+    "trackName": "Никто не вспомнит"
+  },
+  {
+    "artistName": "League of Legends",
+    "trackName": "RISE (feat. The Glitch Mob)"
+  },
+  {
+    "artistName": "Tiësto",
+    "trackName": "All Nighter"
+  },
+  {
+    "artistName": "Tiësto",
+    "trackName": "10:35"
+  },
+  {
+    "artistName": "Tiësto",
+    "trackName": "Chills (LA Hills)"
+  },
+  {
+    "artistName": "Tiësto",
+    "trackName": "Hot In It (feat. Charli XCX)"
+  },
+  {
+    "artistName": "Tiësto",
+    "trackName": "Back Around"
+  },
+  {
+    "artistName": "1991",
+    "trackName": "Midnight"
+  },
+  {
+    "artistName": "Linkin Park",
+    "trackName": "Pushing Me Away"
+  },
+  {
+    "artistName": "Unlike Pluto",
+    "trackName": "Revenge, And a Little More"
+  },
+  {
+    "artistName": "Coolio",
+    "trackName": "Gangsta's Paradise (feat. L.V.)"
+  },
+  {
+    "artistName": "Virtual Riot",
+    "trackName": "This Could Be Us"
+  },
+  {
+    "artistName": "Victoria Kohana",
+    "trackName": "Desert Rose"
+  },
+  {
+    "artistName": "kavabanga Depo kolibri",
+    "trackName": "Дежавю"
+  },
+  {
+    "artistName": "NICKY ØDESSA",
+    "trackName": "Poser"
+  },
+  {
+    "artistName": "Armin van Buuren",
+    "trackName": "Pas de Bourree (feat. Lucky Lou)"
+  },
+  {
+    "artistName": "Armin van Buuren",
+    "trackName": "Clap"
+  },
+  {
+    "artistName": "Clarx",
+    "trackName": "Zig Zag"
+  },
+  {
+    "artistName": "Клава Кока",
+    "trackName": "ЛА ЛА ЛА"
+  },
+  {
+    "artistName": "Harry Styles",
+    "trackName": "As It Was"
+  },
+  {
+    "artistName": "Tiësto",
+    "trackName": "Your Love"
+  },
+  {
+    "artistName": "nicebeatzprod.",
+    "trackName": "Для всех нас нет"
+  },
+  {
+    "artistName": "NICKY ØDESSA",
+    "trackName": "Now All I Have Left of You Is a Lovely Mystery"
+  },
+  {
+    "artistName": "Purple Disco Machine",
+    "trackName": "In The Dark"
+  },
+  {
+    "artistName": "Zivert",
+    "trackName": "Всё решено"
+  },
+  {
+    "artistName": "KSHMR",
+    "trackName": "Invisible Children"
+  },
+  {
+    "artistName": "K Motionz",
+    "trackName": "Only You"
+  },
+  {
+    "artistName": "Friction",
+    "trackName": "Set Me Free"
+  },
+  {
+    "artistName": "Falling In Reverse",
+    "trackName": "The Westerner"
+  },
+  {
+    "artistName": "Medina",
+    "trackName": "You And I (Spencer And Hill Remix)"
+  },
+  {
+    "artistName": "Loud Luxury",
+    "trackName": "Next To You (TWINSICK Remix) (feat. DVBBS & Kane Brown)"
+  },
+  {
+    "artistName": "Knock2",
+    "trackName": "dashstar*"
+  },
+  {
+    "artistName": "Future House Music",
+    "trackName": "Fred Again x Swedish House Mafia x Future - Turn On The Lights again.. (Knock2 Remix)"
+  },
+  {
+    "artistName": "070 Shake",
+    "trackName": "Cocoon (Martin Garrix & Space Ducks Remix)"
+  },
+  {
+    "artistName": "Tiësto",
+    "trackName": "Hot In It (Tiësto’s Hotter Mix) (feat. Charli XCX)"
+  },
+  {
+    "artistName": "KSHMR",
+    "trackName": "Memories (feat. Sirah)"
+  },
+  {
+    "artistName": "Sub Focus",
+    "trackName": "Ready To Fly"
+  },
+  {
+    "artistName": "Курган & Agregat",
+    "trackName": "Параноя"
+  },
+  {
+    "artistName": "Bassjackers",
+    "trackName": "Fireflies (Extended Mix) (feat. Luciana)"
+  },
+  {
+    "artistName": "Purple Disco Machine",
+    "trackName": "Dopamine (feat. Eyelar)"
+  },
+  {
+    "artistName": "Tech N9ne",
+    "trackName": "Tell Everyone"
+  },
+  {
+    "artistName": "25/17",
+    "trackName": "Поезд"
+  },
+  {
+    "artistName": "25/17",
+    "trackName": "Комната (Акустика)"
+  },
+  {
+    "artistName": "Sia",
+    "trackName": "Cheap Thrills (feat. Sean Paul)"
+  },
+  {
+    "artistName": "Topic",
+    "trackName": "Saving Me (feat. Sasha Alex Sloan)"
+  },
+  {
+    "artistName": "Purple Disco Machine",
+    "trackName": "In The Dark (Oliver Heldens Remix)"
+  },
+  {
+    "artistName": "Becky Hill",
+    "trackName": "My Heart Goes (La Di Da) (Topic VIP Remix)"
+  },
+  {
+    "artistName": "Jasper Dietze & Aaron Richards",
+    "trackName": "In the Night"
+  },
+  {
+    "artistName": "Cristoph",
+    "trackName": "The World You See"
+  },
+  {
+    "artistName": "Platinum Doug",
+    "trackName": "Sweat It Out"
+  },
+  {
+    "artistName": "Sam Smith",
+    "trackName": "Unholy (ACRAZE Remix)"
+  },
+  {
+    "artistName": "Chris Lake",
+    "trackName": "Beggin'"
+  },
+  {
+    "artistName": "AREZRA",
+    "trackName": "Night Drive"
+  },
+  {
+    "artistName": "Tiësto",
+    "trackName": "The Business (Vintage Culture & Dubdogz Remix)"
+  },
+  {
+    "artistName": "Sian Evans",
+    "trackName": "Hide U (Tinlicker Remix)"
+  },
+  {
+    "artistName": "MEDUZA",
+    "trackName": "Bad Memories (David Guetta Remix) (feat. Elley Duhé & FAST BOY)"
+  },
+  {
+    "artistName": "Clean Bandit",
+    "trackName": "Drive"
+  },
+  {
+    "artistName": "Manc Mantas",
+    "trackName": "Twin - Leave The Lights On"
+  },
+  {
+    "artistName": "Jelly Roll",
+    "trackName": "Save Me"
+  },
+  {
+    "artistName": "Purple Disco Machine",
+    "trackName": "Hypnotized"
+  },
+  {
+    "artistName": "Platinum Doug",
+    "trackName": "Get High, Live Life (Original Club Mix)"
+  },
+  {
+    "artistName": "Netsky",
+    "trackName": "Broken"
+  },
+  {
+    "artistName": "Zeds Dead",
+    "trackName": "Alive (Bensley Remix)"
+  },
+  {
+    "artistName": "MEDUZA",
+    "trackName": "Under Pressure (feat. Ben Samama)"
+  },
+  {
+    "artistName": "Zero",
+    "trackName": "Reeces Pieces"
+  },
+  {
+    "artistName": "JOYRYDE",
+    "trackName": "I WARE HOUSE"
+  },
+  {
+    "artistName": "Asomi",
+    "trackName": "Deadmau5 - Monophobia (Axel Boy Bootleg)"
+  },
+  {
+    "artistName": "On The Low",
+    "trackName": "On The Low"
+  },
+  {
+    "artistName": "Имя артиста не найдено",
+    "trackName": "Название трека не найдено"
+  },
+  {
+    "artistName": "Habstrakt",
+    "trackName": "Show Me"
+  },
+  {
+    "artistName": "Ava Max",
+    "trackName": "Salt"
+  },
+  {
+    "artistName": "Loc-Dog",
+    "trackName": "Хочу успеть"
+  },
+  {
+    "artistName": "25/17",
+    "trackName": "Весь мир идёт на меня войной"
+  },
+  {
+    "artistName": "Bottai",
+    "trackName": "Alkantara"
+  },
+  {
+    "artistName": "TRITICUM",
+    "trackName": "Waiting For"
+  },
+  {
+    "artistName": "Hr. Troels",
+    "trackName": "Something (feat. Romy Dya)"
+  },
+  {
+    "artistName": "Dimension",
+    "trackName": "Saviour (feat. Sharlene Hector)"
+  },
+  {
+    "artistName": "Curbi",
+    "trackName": "Feel (feat. Helen)"
+  },
+  {
+    "artistName": "Fall Out Boy",
+    "trackName": "Love From The Other Side"
+  },
+  {
+    "artistName": "Alok",
+    "trackName": "It Don’t Matter (Alok & ÜHÜ Remix)"
+  },
+  {
+    "artistName": "Harrison",
+    "trackName": "Heat Waves"
+  },
+  {
+    "artistName": "MEDUZA",
+    "trackName": "Paradise (feat. Dermot Kennedy)"
+  },
+  {
+    "artistName": "ATB",
+    "trackName": "Your Love (9PM) (Tiësto Remix)"
+  },
+  {
+    "artistName": "Calvin Harris",
+    "trackName": "Miracle (David Guetta Remix)"
+  },
+  {
+    "artistName": "Guf",
+    "trackName": "Original ба"
+  },
+  {
+    "artistName": "The Chainsmokers",
+    "trackName": "Self Destruction Mode"
+  },
+  {
+    "artistName": "Arthur Pirozhkov",
+    "trackName": "Nu i chto (Cover Version)"
+  },
+  {
+    "artistName": "RAP.RU",
+    "trackName": "Карандаш - Не ебет"
+  },
+  {
+    "artistName": "Честер Небро",
+    "trackName": "Ты моё солнце"
+  },
+  {
+    "artistName": "Казян",
+    "trackName": "Чача"
+  },
+  {
+    "artistName": "$cream",
+    "trackName": "MЗFK"
+  },
+  {
+    "artistName": "БумБокс",
+    "trackName": "Імперії впадуть"
+  },
+  {
+    "artistName": "Harrison",
+    "trackName": "Unholy (feat. STORi)"
+  },
+  {
+    "artistName": "Tiësto",
+    "trackName": "The Motto (Nathan Dawe Remix)"
+  },
+  {
+    "artistName": "Delta Heavy",
+    "trackName": "Heartbeat (feat. DJ Rae)"
+  },
+  {
+    "artistName": "Slider & Magnit",
+    "trackName": "Morze (Tongue Tied)"
+  },
+  {
+    "artistName": "Wilkinson",
+    "trackName": "XTC (Remix)"
+  },
+  {
+    "artistName": "AVAION",
+    "trackName": "I don't know why (SOMMA Remix)"
+  },
+  {
+    "artistName": "Max Fail",
+    "trackName": "Don't Stop The Music (feat. LYNNE)"
+  },
+  {
+    "artistName": "Tiësto",
+    "trackName": "The Motto (Tiësto’s VIP Mix)"
+  },
+  {
+    "artistName": "Max Barskih",
+    "trackName": "Знайти себе"
+  },
+  {
+    "artistName": "Delta Heavy",
+    "trackName": "Against The Tide"
+  },
+  {
+    "artistName": "Armin van Buuren",
+    "trackName": "No Fun"
+  },
+  {
+    "artistName": "MEDUZA",
+    "trackName": "Piece Of Your Heart (Alok Remix)"
+  },
+  {
+    "artistName": "AREZRA",
+    "trackName": "Away (Lord I Pray)"
+  },
+  {
+    "artistName": "Курган & Agregat",
+    "trackName": "Тусуйся"
+  },
+  {
+    "artistName": "kavabanga Depo kolibri",
+    "trackName": "Серед людей"
+  },
+  {
+    "artistName": "K Motionz",
+    "trackName": "High Note"
+  },
+  {
+    "artistName": "Ava Max",
+    "trackName": "EveryTime I Cry (Ava Max x Sigala Remix)"
+  },
+  {
+    "artistName": "Ed Sheeran",
+    "trackName": "Bad Habits (MEDUZA Remix)"
+  },
+  {
+    "artistName": "Jack Back",
+    "trackName": "Case Of The Ex (feat. Mya Francis)"
+  },
+  {
+    "artistName": "Fall Out Boy",
+    "trackName": "This Ain't A Scene, It's An Arms Race"
+  },
+  {
+    "artistName": "Thirty Seconds To Mars",
+    "trackName": "Stuck"
+  },
+  {
+    "artistName": "Delta Heavy",
+    "trackName": "Punish My Love"
+  },
+  {
+    "artistName": "Martin Garrix",
+    "trackName": "Scared to Be Lonely (Loud Luxury Remix)"
+  },
+  {
+    "artistName": "Yves V",
+    "trackName": "She Movin'"
+  },
+  {
+    "artistName": "KOLA",
+    "trackName": "Чи разом?"
+  },
+  {
+    "artistName": "Vintage Culture",
+    "trackName": "Pour Over"
+  },
+  {
+    "artistName": "AVAION",
+    "trackName": "Sleepless (feat. yuma.)"
+  },
+  {
+    "artistName": "Zivert",
+    "trackName": "Сияй"
+  },
+  {
+    "artistName": "Alok",
+    "trackName": "Hear Me Tonight"
+  },
+  {
+    "artistName": "Vadim Adamov",
+    "trackName": "Strong Enough"
+  },
+  {
+    "artistName": "MALFA",
+    "trackName": "So Long"
+  },
+  {
+    "artistName": "Gatby",
+    "trackName": "Bad Intentions"
+  },
+  {
+    "artistName": "COMEDOZ",
+    "trackName": "Ямайка (Remix)"
+  },
+  {
+    "artistName": "Robin Schulz",
+    "trackName": "Killer Queen (AVAION Remix)"
+  },
+  {
+    "artistName": "CLOUDLESS",
+    "trackName": "Drown Me Down (Malyar Remix)"
+  },
+  {
+    "artistName": "БРАТУБРАТ",
+    "trackName": "Без меня (Prod. by Epishin)"
+  },
+  {
+    "artistName": "БРАТУБРАТ",
+    "trackName": "Тоска (Prod. by Christ)"
+  },
+  {
+    "artistName": "ChipaChip",
+    "trackName": "Толер"
+  },
+  {
+    "artistName": "MALFA",
+    "trackName": "All Over Again"
+  },
+  {
+    "artistName": "Имя артиста не найдено",
+    "trackName": "Название трека не найдено"
+  },
+  {
+    "artistName": "Libercio",
+    "trackName": "Desire"
+  },
+  {
+    "artistName": "Fall Out Boy",
+    "trackName": "Heartbreak Feels So Good"
+  },
+  {
+    "artistName": "Rooftime",
+    "trackName": "Piece of Mind"
+  },
+  {
+    "artistName": "Heaven",
+    "trackName": "Heaven"
+  },
+  {
+    "artistName": "БРАТУБРАТ",
+    "trackName": "Симптом (Prod. by Epishin)"
+  },
+  {
+    "artistName": "БРАТУБРАТ",
+    "trackName": "Три сестры"
+  },
+  {
+    "artistName": "Казян",
+    "trackName": "Наша свобода"
+  },
+  {
+    "artistName": "БРАТУБРАТ",
+    "trackName": "Слезай (Prod. by Epishin)"
+  },
+  {
+    "artistName": "ATL",
+    "trackName": "Марабу (Drum Mix)"
+  },
+  {
+    "artistName": "Loc-Dog",
+    "trackName": "МНЕ УЖЕ ПОРА"
+  },
+  {
+    "artistName": "Nu Aspect",
+    "trackName": "Light"
+  },
+  {
+    "artistName": "Libercio",
+    "trackName": "LEAN"
+  },
+  {
+    "artistName": "Sagi Kariv",
+    "trackName": "Billie Eilish - I Love You (Sagi Kariv remix)"
+  },
+  {
+    "artistName": "Cannons",
+    "trackName": "Fire for You (Tiësto Remix)"
+  },
+  {
+    "artistName": "Adriano Celentano",
+    "trackName": "Solo Da Un Quarto D'ora"
+  },
+  {
+    "artistName": "ollie",
+    "trackName": "Malfa - So Long (M.a.o.s. Beats Remix)"
+  },
+  {
+    "artistName": "Falling In Reverse",
+    "trackName": "Last Resort (Reimagined)"
+  },
+  {
+    "artistName": "Ömer Bükülmezoğlu",
+    "trackName": "Roe"
+  },
+  {
+    "artistName": "Panic! At The Disco",
+    "trackName": "I Write Sins Not Tragedies"
+  },
+  {
+    "artistName": "Camishe",
+    "trackName": "Set Me Free (The Distance & Igi Remix)"
+  },
+  {
+    "artistName": "Kagramanov",
+    "trackName": "Tantsuy, pantera"
+  },
+  {
+    "artistName": "Miley Cyrus",
+    "trackName": "Flowers"
+  },
+  {
+    "artistName": "Oxxxymiron",
+    "trackName": "Улет"
+  },
+  {
+    "artistName": "Fred V",
+    "trackName": "Icarus"
+  },
+  {
+    "artistName": "Alok",
+    "trackName": "Big Jet Plane (Pharmacist Remix)"
+  },
+  {
+    "artistName": "Low House",
+    "trackName": "Armin Van Buuren vs Acraze - No Fun vs Do It To It (Armin Van Buuren Mashup)"
+  },
+  {
+    "artistName": "Don Diablo",
+    "trackName": "Hot Air Balloon"
+  },
+  {
+    "artistName": "Nu Aspect",
+    "trackName": "What's in My Head"
+  },
+  {
+    "artistName": "Dezko",
+    "trackName": "Ascend (My Mind Edit)"
+  },
+  {
+    "artistName": "Nu Aspect",
+    "trackName": "Something Real (Extended)"
+  },
+  {
+    "artistName": "Копюшон Ноу Мо",
+    "trackName": "Лепесток"
+  },
+  {
+    "artistName": "KVPV",
+    "trackName": "Burn The Throne"
+  },
+  {
+    "artistName": "AREZRA",
+    "trackName": "Drowning In The Deep End"
+  },
+  {
+    "artistName": "AREZRA",
+    "trackName": "Sad Song"
+  },
+  {
+    "artistName": "Becky Hill",
+    "trackName": "Disconnect"
+  },
+  {
+    "artistName": "Fred V",
+    "trackName": "Homesick"
+  },
+  {
+    "artistName": "D.O.D",
+    "trackName": "Sleepless"
+  },
+  {
+    "artistName": "Everyone You Know",
+    "trackName": "Crying on the Weekend"
+  },
+  {
+    "artistName": "Emin Nilsen",
+    "trackName": "Clone"
+  },
+  {
+    "artistName": "Dezko",
+    "trackName": "Ascend"
+  },
+  {
+    "artistName": "Tiësto",
+    "trackName": "Be Something"
+  },
+  {
+    "artistName": "Becky Hill",
+    "trackName": "Changing"
+  },
+  {
+    "artistName": "Loc-Dog",
+    "trackName": "ВЕРИ ГУД"
+  },
+  {
+    "artistName": "Hedex",
+    "trackName": "Missing You (feat. A Little Sound)"
+  },
+  {
+    "artistName": "Kanine",
+    "trackName": "Take Me Up"
+  },
+  {
+    "artistName": "Miss You",
+    "trackName": "Miss You"
+  },
+  {
+    "artistName": "Nu Aspect",
+    "trackName": "Sinner"
+  },
+  {
+    "artistName": "SOMMA",
+    "trackName": "Rush"
+  },
+  {
+    "artistName": "AREZRA & Vika",
+    "trackName": "Dream"
+  },
+  {
+    "artistName": "Loc-Dog",
+    "trackName": "ИНХ"
+  },
+  {
+    "artistName": "LivingBandit",
+    "trackName": "KALEO - Way Down We Go (Bandit Remix)"
+  },
+  {
+    "artistName": "Thousand Foot Krutch",
+    "trackName": "The End Is Where We Begin"
+  },
+  {
+    "artistName": "David Guetta",
+    "trackName": "One Love (feat. Estelle) (feat. Estelle)"
+  },
+  {
+    "artistName": "Refeci",
+    "trackName": "Where Are You"
+  },
+  {
+    "artistName": "CaliberTV",
+    "trackName": "Falling In Reverse - \"Watch The World Burn\" LIVE! The Popular Monstour"
+  },
+  {
+    "artistName": "Иванушки International",
+    "trackName": "Золотые облака"
+  },
+  {
+    "artistName": "Три дня дождя",
+    "trackName": "Театр теней"
+  },
+  {
+    "artistName": "Elderbrook",
+    "trackName": "Talking"
+  },
+  {
+    "artistName": "Elton John",
+    "trackName": "Cold Heart (PNAU Remix)"
+  },
+  {
+    "artistName": "SeO",
+    "trackName": "Я это ты"
+  },
+  {
+    "artistName": "Johnny Carrera",
+    "trackName": "Northern Lights (feat. Jonas Stoller)"
+  },
+  {
+    "artistName": "The Suncatchers",
+    "trackName": "Me, Myself and I"
+  },
+  {
+    "artistName": "*NSYNC",
+    "trackName": "Bye Bye Bye"
+  },
+  {
+    "artistName": "25/17",
+    "trackName": "Радость"
+  },
+  {
+    "artistName": "Måneskin",
+    "trackName": "HONEY (ARE U COMING?)"
+  },
+  {
+    "artistName": "Måneskin",
+    "trackName": "GOSSIP (feat. Tom Morello)"
+  },
+  {
+    "artistName": "ChipaChip",
+    "trackName": "Больше, чем осень"
+  },
+  {
+    "artistName": "ChipaChip",
+    "trackName": "Поговори со мной"
+  },
+  {
+    "artistName": "ChipaChip",
+    "trackName": "Всю ночь"
+  },
+  {
+    "artistName": "Don Diablo",
+    "trackName": "Golden"
+  },
+  {
+    "artistName": "Tom Santa",
+    "trackName": "Rainfall (Praise You) (Nathan Dawe Remix)"
+  },
+  {
+    "artistName": "Rita Ora",
+    "trackName": "Don't Think Twice"
+  },
+  {
+    "artistName": "Имя артиста не найдено",
+    "trackName": "Название трека не найдено"
+  },
+  {
+    "artistName": "Hypaton",
+    "trackName": "Be My Lover (2023 Mix) (feat. La Bouche)"
+  },
+  {
+    "artistName": "Dream Chaos",
+    "trackName": "Supergirl"
+  },
+  {
+    "artistName": "Киноляп",
+    "trackName": "Многоточие"
+  },
+  {
+    "artistName": "Lil Wayne",
+    "trackName": "Don’t Cry (feat. XXXTENTACION)"
+  },
+  {
+    "artistName": "Lil Wayne",
+    "trackName": "Let It Fly (feat. Travis Scott)"
+  },
+  {
+    "artistName": "Lil Wayne",
+    "trackName": "Can't Be Broken"
+  },
+  {
+    "artistName": "Lil Wayne",
+    "trackName": "Open Safe"
+  },
+  {
+    "artistName": "Lil Wayne",
+    "trackName": "Act Up"
+  },
+  {
+    "artistName": "Oxxxymiron",
+    "trackName": "Прекрасное Далёко (feat. Брутто)"
+  },
+  {
+    "artistName": "Benny Page",
+    "trackName": "One Time (Too Hot)"
+  },
+  {
+    "artistName": "Example",
+    "trackName": "Do It So Well"
+  },
+  {
+    "artistName": "Delta Heavy",
+    "trackName": "Hydra"
+  },
+  {
+    "artistName": "Tom Santa",
+    "trackName": "Rainfall (Praise You)"
+  },
+  {
+    "artistName": "Имя артиста не найдено",
+    "trackName": "Название трека не найдено"
+  },
+  {
+    "artistName": "Имя артиста не найдено",
+    "trackName": "Название трека не найдено"
+  },
+  {
+    "artistName": "Backstreet Boys",
+    "trackName": "Everybody (Backstreet's Back) (Radio Edit)"
+  },
+  {
+    "artistName": "*NSYNC",
+    "trackName": "It's Gonna Be Me"
+  },
+  {
+    "artistName": "Backstreet Boys",
+    "trackName": "Get Down (You're the One for Me) (LP Edit No Rap)"
+  },
+  {
+    "artistName": "Taron Egerton",
+    "trackName": "I'm Still Standing"
+  },
+  {
+    "artistName": "Drake",
+    "trackName": "Worst Behavior"
+  },
+  {
+    "artistName": "Гости из будущего",
+    "trackName": "Нелюбовь"
+  },
+  {
+    "artistName": "giorgi farulava",
+    "trackName": "Cutting Crew   I Just Died In Your Arms Mad Morello  Igi Remix"
+  },
+  {
+    "artistName": "Freaks & Geeks",
+    "trackName": "See It Thru"
+  },
+  {
+    "artistName": "KVPV",
+    "trackName": "Citys"
+  },
+  {
+    "artistName": "Имя артиста не найдено",
+    "trackName": "Название трека не найдено"
+  },
+  {
+    "artistName": "Loc-Dog",
+    "trackName": "Только я"
+  },
+  {
+    "artistName": "Карандаш feat. Ленин",
+    "trackName": "Все любят Родину"
+  },
+  {
+    "artistName": "KVPV",
+    "trackName": "Forever"
+  },
+  {
+    "artistName": "Måneskin",
+    "trackName": "BABY SAID"
+  },
+  {
+    "artistName": "KVPV",
+    "trackName": "Shot It"
+  },
+  {
+    "artistName": "Backstreet Boys",
+    "trackName": "We've Got It Goin' On (Radio Edit)"
+  },
+  {
+    "artistName": "Backstreet Boys",
+    "trackName": "The Call"
+  },
+  {
+    "artistName": "Pharrell Williams",
+    "trackName": "Happy (From \"Despicable Me 2\")"
+  },
+  {
+    "artistName": "ChipaChip",
+    "trackName": "Слитые дэмо"
+  },
+  {
+    "artistName": "KVPV",
+    "trackName": "West"
+  },
+  {
+    "artistName": "KVPV",
+    "trackName": "Where We Are"
+  },
+  {
+    "artistName": "Копюшон Ноу Мо",
+    "trackName": "Остаюсь музыкой"
+  },
+  {
+    "artistName": "RYBAKOV",
+    "trackName": "Заряжаем бабки"
+  },
+  {
+    "artistName": "Freaks & Geeks",
+    "trackName": "Guiding Light"
+  },
+  {
+    "artistName": "XXXTENTACION",
+    "trackName": "Revenge"
+  },
+  {
+    "artistName": "Нэнси",
+    "trackName": "Чистый лист"
+  },
+  {
+    "artistName": "KVPV",
+    "trackName": "Bad"
+  },
+  {
+    "artistName": "Måneskin",
+    "trackName": "TIMEZONE"
+  },
+  {
+    "artistName": "The Hatters",
+    "trackName": "Наружу изнутри"
+  },
+  {
+    "artistName": "Копюшон Ноу Мо",
+    "trackName": "Знаешь"
+  },
+  {
+    "artistName": "Eve",
+    "trackName": "Let Me Blow Ya Mind (feat. Gwen Stefani)"
+  },
+  {
+    "artistName": "БРАТУБРАТ",
+    "trackName": "21 век"
+  },
+  {
+    "artistName": "Get Bass Baby",
+    "trackName": "t.A.T.u. - Нас Не Догонят 🔊Bass Boosted🔊 (Ragion 2018 Remix)"
+  },
+  {
+    "artistName": "Eminem",
+    "trackName": "Music Box"
+  },
+  {
+    "artistName": "Имя артиста не найдено",
+    "trackName": "Название трека не найдено"
+  },
+  {
+    "artistName": "Our Last Night",
+    "trackName": "BURIED ALIVE"
+  },
+  {
+    "artistName": "Måneskin",
+    "trackName": "TRASTEVERE"
+  },
+  {
+    "artistName": "Måneskin",
+    "trackName": "VALENTINE"
+  },
+  {
+    "artistName": "Måneskin",
+    "trackName": "THE DRIVER"
+  },
+  {
+    "artistName": "Culture Shock",
+    "trackName": "City Lights (feat. Bryn Christopher)"
+  },
+  {
+    "artistName": "25/17",
+    "trackName": "Остаться"
+  },
+  {
+    "artistName": "Елка",
+    "trackName": "Gorod Obmana"
+  },
+  {
+    "artistName": "BROHM",
+    "trackName": "Time"
+  },
+  {
+    "artistName": "Shouse",
+    "trackName": "Love Tonight (David Guetta Remix)"
+  },
+  {
+    "artistName": "KVPV",
+    "trackName": "Doza"
+  },
+  {
+    "artistName": "Alyx Ander",
+    "trackName": "Wake up for the Night (feat. Caroline Pennell)"
+  },
+  {
+    "artistName": "NICKY ØDESSA",
+    "trackName": "Heartless"
+  },
+  {
+    "artistName": "KVPV",
+    "trackName": "Wonderland"
+  },
+  {
+    "artistName": "P!NK",
+    "trackName": "Family Portrait"
+  },
+  {
+    "artistName": "Gary Moore",
+    "trackName": "Parisienne Walkways (feat. Phil Lynott)"
+  },
+  {
+    "artistName": "Eve",
+    "trackName": "Gangsta Lovin' (feat. Alicia Keys)"
+  },
+  {
+    "artistName": "Гуф",
+    "trackName": "Улетный день"
+  },
+  {
+    "artistName": "Kanine",
+    "trackName": "Light It Up"
+  },
+  {
+    "artistName": "Oxygen",
+    "trackName": "Oxygen"
+  },
+  {
+    "artistName": "Get Down Tonight",
+    "trackName": "Get Down Tonight"
+  },
+  {
+    "artistName": "Koven",
+    "trackName": "Say What You Want"
+  },
+  {
+    "artistName": "Chris Brown",
+    "trackName": "Kiss Kiss (feat. T-Pain)"
+  },
+  {
+    "artistName": "Chico",
+    "trackName": "Покохай мене"
+  },
+  {
+    "artistName": "BLUES DELIGHT",
+    "trackName": "Slightly Hung Over"
+  },
+  {
+    "artistName": "Gary Moore",
+    "trackName": "Still Got The Blues"
+  },
+  {
+    "artistName": "Oliver Koletzki ",
+    "trackName": "Hypnotized (feat. Fran)"
+  },
+  {
+    "artistName": "Koven",
+    "trackName": "The Outlines"
+  },
+  {
+    "artistName": "Freemasons",
+    "trackName": "Heartbreak (Make Me a Dancer) (feat. Sophie Ellis-Bextor)"
+  },
+  {
+    "artistName": "Wilkinson",
+    "trackName": "Decompression"
+  },
+  {
+    "artistName": "Sam Smith",
+    "trackName": "Lose You"
+  },
+  {
+    "artistName": "Sadistik",
+    "trackName": "The Moon Smiled Back at Me"
+  },
+  {
+    "artistName": "Besomage",
+    "trackName": "Killing Me Softly"
+  },
+  {
+    "artistName": "БРАТУБРАТ",
+    "trackName": "Заново"
+  },
+  {
+    "artistName": "Гуф",
+    "trackName": "Правила Дома"
+  },
+  {
+    "artistName": "Armin van Buuren",
+    "trackName": "Lose This Feeling (Dimension Remix)"
+  },
+  {
+    "artistName": "Don't Let Me Go",
+    "trackName": "Don't Let Me Go"
+  },
+  {
+    "artistName": "Guano Apes",
+    "trackName": "Pretty in Scarlet"
+  },
+  {
+    "artistName": "Гансэлло",
+    "trackName": "Крики"
+  },
+  {
+    "artistName": "MPH",
+    "trackName": "Show Me"
+  },
+  {
+    "artistName": "Phlegmatic Dogs",
+    "trackName": "Keepmastik"
+  },
+  {
+    "artistName": "REAPER",
+    "trackName": "BLACK FIRES"
+  },
+  {
+    "artistName": "Metrik",
+    "trackName": "Abyss"
+  },
+  {
+    "artistName": "Wilkinson",
+    "trackName": "Infinity (feat. ILIRA, iiola & Tom Cane)"
+  },
+  {
+    "artistName": "Infinite (Freedom)",
+    "trackName": "Infinite (Freedom)"
+  },
+  {
+    "artistName": "Netsky",
+    "trackName": "Running Low (feat. Beth Ditto)"
+  },
+  {
+    "artistName": "Måneskin",
+    "trackName": "LA PAURA DEL BUIO"
+  },
+  {
+    "artistName": "Armin van Buuren",
+    "trackName": "God Is In The Soundwaves (feat. Yola Recoba)"
+  },
+  {
+    "artistName": "Kanine",
+    "trackName": "Lost and Found"
+  },
+  {
+    "artistName": "LOBODA",
+    "trackName": "Девочка"
+  },
+  {
+    "artistName": "Dimitri Vegas & Like Mike",
+    "trackName": "Thank You (Not So Bad)"
+  },
+  {
+    "artistName": "LOBODA",
+    "trackName": "ЗанесLo"
+  },
+  {
+    "artistName": "Три дня дождя",
+    "trackName": "Перезаряжай"
+  },
+  {
+    "artistName": "Skillet",
+    "trackName": "Awake and Alive"
+  },
+  {
+    "artistName": "Inna",
+    "trackName": "Cola Song (feat. J Balvin)"
+  },
+  {
+    "artistName": "INNA",
+    "trackName": "Flashbacks"
+  },
+  {
+    "artistName": "Gaullin",
+    "trackName": "One Last Kiss"
+  },
+  {
+    "artistName": "Besomage",
+    "trackName": "Midnight Sky"
+  },
+  {
+    "artistName": "P Money",
+    "trackName": "Buss The Red"
+  },
+  {
+    "artistName": "MONSS",
+    "trackName": "Make It Right (feat. Khazali)"
+  },
+  {
+    "artistName": "Sub Focus",
+    "trackName": "Off The Ground"
+  },
+  {
+    "artistName": "Armin van Buuren",
+    "trackName": "State Of Mind (feat. ALBA)"
+  },
+  {
+    "artistName": "Joachim Garraud",
+    "trackName": "The World Is Mine"
+  },
+  {
+    "artistName": "Topic",
+    "trackName": "Lucid Dream"
+  },
+  {
+    "artistName": "Sub Focus",
+    "trackName": "Ready To Fly (Sub Focus & Dimension)"
+  },
+  {
+    "artistName": "ZHU",
+    "trackName": "ZHU - In The Morning (Scott Rill Remix)"
+  },
+  {
+    "artistName": "Ella Henderson",
+    "trackName": "Alibi (feat. Rudimental)"
+  },
+  {
+    "artistName": "James Hype",
+    "trackName": "Drums (Tiësto Remix)"
+  },
+  {
+    "artistName": "Armin van Buuren",
+    "trackName": "Hold On"
+  },
+  {
+    "artistName": "Low Roar",
+    "trackName": "Don't Be So Serious"
+  },
+  {
+    "artistName": "Armin van Buuren",
+    "trackName": "God Is In The Soundwaves (feat. Yola Recoba)"
+  },
+  {
+    "artistName": "Гуф",
+    "trackName": "Гэнгста"
+  },
+  {
+    "artistName": "John Dee",
+    "trackName": "Not So Bad"
+  },
+  {
+    "artistName": "NCT",
+    "trackName": "Don't Need U"
+  },
+  {
+    "artistName": "Sub Focus",
+    "trackName": "Waiting (VIP)"
+  },
+  {
+    "artistName": "Creeds",
+    "trackName": "Push Up (Short Version)"
+  },
+  {
+    "artistName": "Tell Me Why (1991 Remix)",
+    "trackName": "Tell Me Why (1991 Remix)"
+  },
+  {
+    "artistName": "Fred V",
+    "trackName": "Closer"
+  },
+  {
+    "artistName": "Kanine",
+    "trackName": "Stand Up (feat. Emily Makis)"
+  },
+  {
+    "artistName": "Navos",
+    "trackName": "The Garden"
+  },
+  {
+    "artistName": "KSHMR",
+    "trackName": "Heartbeat"
+  },
+  {
+    "artistName": "Ella Henderson",
+    "trackName": "Alibi [Extended] (feat. Rudimental)"
+  },
+  {
+    "artistName": "ANNA ASTI",
+    "trackName": "Ночью на кухне"
+  },
+  {
+    "artistName": "James Hype",
+    "trackName": "Drums"
+  },
+  {
+    "artistName": "David Guetta",
+    "trackName": "Love Is Gone (Fred Riester & Joachim Garraud Radio Edit Remix)"
+  },
+  {
+    "artistName": "Icarus / Reaching Dawn",
+    "trackName": "Reaching Dawn"
+  },
+  {
+    "artistName": "Becky Hill",
+    "trackName": "Disconnect (Tiësto Extended Remix)"
+  },
+  {
+    "artistName": "Armin van Buuren",
+    "trackName": "Motive (Extended Mix)"
+  },
+  {
+    "artistName": "FAST BOY",
+    "trackName": "Forget You (FAST BOY VIP Mix)"
+  },
+  {
+    "artistName": "LOBODA",
+    "trackName": "Курок"
+  },
+  {
+    "artistName": "Kanine",
+    "trackName": "Back In Time VIP"
+  },
+  {
+    "artistName": "Why So Sad",
+    "trackName": "Don't wake me up (HÜMAN Remix)"
+  },
+  {
+    "artistName": "Bombalaya",
+    "trackName": "Bombalaya"
+  },
+  {
+    "artistName": "Alok & Ava Max",
+    "trackName": "Car Keys (Ayla)"
+  },
+  {
+    "artistName": "GATTÜSO",
+    "trackName": "Cruel"
+  },
+  {
+    "artistName": "Delta Heavy",
+    "trackName": "Take Me Home (DNMO Remix) (feat. Jem Cooke)"
+  },
+  {
+    "artistName": "Friction",
+    "trackName": "Weed & Wine (Relax, Rewind)"
+  },
+  {
+    "artistName": "Disclosure",
+    "trackName": "You & Me (Rivo Remix) (feat. Eliza Doolittle)"
+  },
+  {
+    "artistName": "Lucky Luke",
+    "trackName": "Give It To Me"
+  },
+  {
+    "artistName": "Minelli",
+    "trackName": "Think About U"
+  },
+  {
+    "artistName": "LOBODA",
+    "trackName": "Allo"
+  },
+  {
+    "artistName": "Hannah Laing",
+    "trackName": "Good Love (Tiësto Remix)"
+  },
+  {
+    "artistName": "F4ST",
+    "trackName": "Push Up"
+  },
+  {
+    "artistName": "Seshlehem",
+    "trackName": "I Would Like - Seshlehem Special"
+  },
+  {
+    "artistName": "Chase & Status",
+    "trackName": "Liquor & Cigarettes (feat. ArrDee)"
+  },
+  {
+    "artistName": "F4ST",
+    "trackName": "Push up (Main Edit)"
+  },
+  {
+    "artistName": "Freaks & Geeks",
+    "trackName": "Lost My Mind"
+  },
+  {
+    "artistName": "BENNETT",
+    "trackName": "Vois sur ton chemin (DnB Remix)"
+  },
+  {
+    "artistName": "Benny Page",
+    "trackName": "Lose Control"
+  },
+  {
+    "artistName": "Friction",
+    "trackName": "Sun Comes Up"
+  },
+  {
+    "artistName": "Noize MC",
+    "trackName": "Open Air"
+  },
+  {
+    "artistName": "Noize MC",
+    "trackName": "Инстинкт"
+  },
+  {
+    "artistName": "After Dark",
+    "trackName": "After Dark"
+  },
+  {
+    "artistName": "Freaks & Geeks",
+    "trackName": "Let Me Know"
+  },
+  {
+    "artistName": "Ofenbach",
+    "trackName": "Overdrive (feat. Norma Jean Martine)"
+  },
+  {
+    "artistName": "Dezko",
+    "trackName": "U&ME"
+  },
+  {
+    "artistName": "Goodboys",
+    "trackName": "Further Away"
+  },
+  {
+    "artistName": "RÜFÜS DU SOL",
+    "trackName": "Until the Sun Needs to Rise"
+  },
+  {
+    "artistName": "Imagine Dragons",
+    "trackName": "Wrecked"
+  },
+  {
+    "artistName": "Kilian K",
+    "trackName": "Running Up That Hill (Paul Kold Edit) (feat. Luke Madness)"
+  },
+  {
+    "artistName": "Armin van Buuren",
+    "trackName": "Motive"
+  },
+  {
+    "artistName": "Kanine",
+    "trackName": "Back In Time (feat. A Little Sound)"
+  },
+  {
+    "artistName": "Bru-C",
+    "trackName": "Energy"
+  },
+  {
+    "artistName": "Skindred",
+    "trackName": "Nobody"
+  },
+  {
+    "artistName": "Kilian K",
+    "trackName": "Running Up That Hill (BLVCK CROWZ Edit) (feat. Luke Madness)"
+  },
+  {
+    "artistName": "Artino",
+    "trackName": "Be The First (Extended Mix)"
+  },
+  {
+    "artistName": "HotLap",
+    "trackName": "You & I (feat. SHELLS)"
+  },
+  {
+    "artistName": "LOBODA",
+    "trackName": "Девочка (Mix)"
+  },
+  {
+    "artistName": "TRITICUM",
+    "trackName": "Lovers"
+  },
+  {
+    "artistName": "LOBODA",
+    "trackName": "Курок (Mix)"
+  },
+  {
+    "artistName": "Take It",
+    "trackName": "Take It"
+  },
+  {
+    "artistName": "Vanotek",
+    "trackName": "Cherry Lips (feat. Mikayla)"
+  },
+  {
+    "artistName": "LOBODA",
+    "trackName": "Мосты (Mix)"
+  },
+  {
+    "artistName": "MORGENSHTERN",
+    "trackName": "Последняя Любовь"
+  },
+  {
+    "artistName": "Bru-C",
+    "trackName": "Let It Go"
+  },
+  {
+    "artistName": "Баста",
+    "trackName": "Моя Вселенная"
+  },
+  {
+    "artistName": "Friction",
+    "trackName": "I Need to Feel (Subsonic Remix)"
+  },
+  {
+    "artistName": "There For You",
+    "trackName": "There For You (Extended)"
+  },
+  {
+    "artistName": "NIGHTCAP",
+    "trackName": "Where Do You Hide (Nobody Knows) (feat. Vicki Vox)"
+  },
+  {
+    "artistName": "Zivert",
+    "trackName": "НАД КРЫШАМИ"
+  },
+  {
+    "artistName": "LISSEN2",
+    "trackName": "Далеко"
+  },
+  {
+    "artistName": "Alex Midi",
+    "trackName": "Big In Japan"
+  },
+  {
+    "artistName": "Krakota",
+    "trackName": "Everybody (Needs Somebody)"
+  },
+  {
+    "artistName": "MOONBOY",
+    "trackName": "Need U [James Hiraeth Remix] (feat. Madishu)"
+  },
+  {
+    "artistName": "Alex Midi",
+    "trackName": "Big In Japan (Magic Nights 12”)"
+  },
+  {
+    "artistName": "Dj Fresh",
+    "trackName": "Hot Right Now (Extended) (feat. Rita Ora)"
+  },
+  {
+    "artistName": "Имя артиста не найдено",
+    "trackName": "Название трека не найдено"
+  },
+  {
+    "artistName": "venbee",
+    "trackName": "gutter (Shapes VIP Mix)"
+  },
+  {
+    "artistName": "TRITICUM",
+    "trackName": "Together"
+  },
+  {
+    "artistName": "Sunset Child",
+    "trackName": "Missing (Ocean Drive Mix) (feat. Bianca)"
+  },
+  {
+    "artistName": "Гансэлло",
+    "trackName": "Искал"
+  },
+  {
+    "artistName": "Noize MC",
+    "trackName": "Кооператив «Лебединое озеро»"
+  },
+  {
+    "artistName": "Noize MC",
+    "trackName": "За закрытой дверью"
+  },
+  {
+    "artistName": "Три дня дождя",
+    "trackName": "Прощание"
+  },
+  {
+    "artistName": "LusiD",
+    "trackName": "Falling For You"
+  },
+  {
+    "artistName": "Chase & Status",
+    "trackName": "Hold Your Ground (feat. Ethan Holt)"
+  },
+  {
+    "artistName": "Ava Max",
+    "trackName": "Million Dollar Baby"
+  },
+  {
+    "artistName": "Justin Timberlake",
+    "trackName": "Selfish"
+  },
+  {
+    "artistName": "Rave Nation",
+    "trackName": "Rudimental - Waiting All Night (feat EllaEyre) REMIX"
+  },
+  {
+    "artistName": "Netsky",
+    "trackName": "Ice Cold"
+  },
+  {
+    "artistName": "Leanne Louise",
+    "trackName": "Oh No"
+  },
+  {
+    "artistName": "Мурат Насыров",
+    "trackName": "Я это ты (Ты это я)"
+  },
+  {
+    "artistName": "Ella Henderson",
+    "trackName": "Alibi (Shapes VIP mix) (feat. Rudimental)"
+  },
+  {
+    "artistName": "Rudimental",
+    "trackName": "Green & Gold (feat. Charlotte Plank & Riko Dan)"
+  },
+  {
+    "artistName": "LOBODA",
+    "trackName": "SPOGADY"
+  },
+  {
+    "artistName": "Fred again..",
+    "trackName": "leavemealone"
+  },
+  {
+    "artistName": "Gray",
+    "trackName": "Twilight"
+  },
+  {
+    "artistName": "Calvin Harris",
+    "trackName": "Desire (Sub Focus Remix)"
+  }
+]
