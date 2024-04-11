@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Image Slider</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="images">
+        <img src="cars/audi_s1.jpg" class="active" />
+        <img src="cars/bmw_m5_e60_main.jpg" />
+        <img src="cars/camry1.jpg" />
+        <img src="cars/model_s1.jpg" />
+      </div>
+      <div class="dots">
+        <button onclick="dot(1)"></button>
+        <button onclick="dot(2)"></button>
+        <button onclick="dot(3)"></button>
+        <button onclick="dot(4)"></button>
+      </div>
+      <button id="prev" onclick="prev()">&lt;</button>
+      <button id="next" onclick="next()">&gt;</button>
+    </div>
+  </body>
+  <script src="slider.js"></script>
+</html>
