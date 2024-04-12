@@ -6,7 +6,7 @@ const images = document.querySelectorAll(".images img");
 
 function showSlide(index) {
   images.forEach((image) => (image.style.display = "none"));
-  dots.forEach((dot) => (dot.style.backgroundColor = "transperent"));
+  dots.forEach((dot) => (dot.style.backgroundColor = "transparent"));
 
   images[index].style.display = "block";
   dots[index].style.backgroundColor = "#000";
