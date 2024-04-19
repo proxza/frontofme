@@ -1,7 +1,10 @@
 <script>
     import { onMount } from "svelte";
+    import { goto } from '$app/navigation';
+
   
     let data = [];
+
   
     onMount(async () => {
       const response = await fetch("http://localhost:5000/api");
@@ -15,7 +18,8 @@ LOGO
   </div>
   <div class="header">
     <div class="menu">Home | Random | About | Contacts</div>
-    <div class="login">Login/Logout</div>
+    <div class="login">Login/Logout/<a href="/register">Регистрация</a></div>
+    <button on:click={() => goto('/reg')}>Регистрация через кнопку</button>
   </div>
 
 
