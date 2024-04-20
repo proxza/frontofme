@@ -37,7 +37,7 @@
 </script>
 
 {#if browser}
-  <h1>Регистрация</h1>
+  <h1>Регистрация1</h1>
   <form on:submit|preventDefault={handleFormSubmit}>
     <div>
       <label for="username">Имя пользователя:</label>

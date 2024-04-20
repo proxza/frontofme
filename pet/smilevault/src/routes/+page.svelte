@@ -1,7 +1,9 @@
 <script>
     import { onMount } from "svelte";
-    import { goto } from '$app/navigation';
 
+    import { session } from '$app/stores';
+
+//$: console.log($session.authenticated ? 'Пользователь авторизован' : 'Пользователь не авторизован');
   
     let data = [];
 
@@ -19,7 +21,6 @@ LOGO
   <div class="header">
     <div class="menu">Home | Random | About | Contacts</div>
     <div class="login">Login/Logout/<a href="/register">Регистрация</a></div>
-    <button on:click={() => goto('/reg')}>Регистрация через кнопку</button>
   </div>
 
 
