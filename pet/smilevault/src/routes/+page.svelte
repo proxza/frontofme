@@ -1,9 +1,18 @@
 <script>
     import { onMount } from "svelte";
 
-    import { session } from '$app/stores';
+    export async function load({ session }) {
+        return {
+            props: {
+                user: session.user
+            }
+        };
+    }
 
-//$: console.log($session.authenticated ? 'Пользователь авторизован' : 'Пользователь не авторизован');
+    export let user;
+
+    console.log(user);
+
   
     let data = [];
 
@@ -22,6 +31,13 @@ LOGO
     <div class="menu">Home | Random | About | Contacts</div>
     <div class="login">Login/Logout/<a href="/register">Регистрация</a></div>
   </div>
+
+  {#if user}
+    <p>Welcome, {user.username}!</p>
+    <!-- Logout functionality could be added here -->
+{:else}
+    <p>Please <a href="/login">login</a>.</p>
+{/if}
 
 
     {#if data.length > 0}
