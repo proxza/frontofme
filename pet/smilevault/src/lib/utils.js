@@ -3,8 +3,12 @@ import { v4 as uuidv4 } from 'uuid';
 import pg from 'pg';
 const { Pool } = pg;
 
+import dotenv from 'dotenv';
+
+dotenv.config();
+
 const pool = new Pool({
-	BLABLABLA
+	connectionString: process.env.DATABASE_URL
 });
 
 export async function verifyUser(username, password) {

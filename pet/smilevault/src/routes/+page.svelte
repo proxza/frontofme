@@ -1,17 +1,14 @@
 <script>
     import { onMount } from "svelte";
 
-    export async function load({ session }) {
-        return {
-            props: {
-                user: session.user
-            }
-        };
-    }
+    export async function load({ locals }) {
+        console.log("oops: " + locals.user);
+  return { user: locals.user }
+}
 
     export let user;
 
-    console.log(user);
+    console.log("main: " + user);
 
   
     let data = [];
