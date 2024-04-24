@@ -2,19 +2,42 @@
     import { page } from "$app/stores";
     //console.log($page.data.contents);
 </script>
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
 
 {#if $page.data.contents && $page.data.contents.length > 0}
-  <ul>
+
+
+  <div>
     {#each $page.data.contents as content}
-      <li>
-        <strong>{content.title}</strong> - {content.content}
-        <br>
-        Posted by {content.author} on {content.date}
-      </li>
+    <div class="main">
+        <div class="container">
+            {#if $page.data.user}
+            <div class="button-container">
+                <form action="/editpost" method="post" use:enhance>
+                    <input type="hidden" name="id" value="{content.id}">
+                  <button type="submit" class="link-button">edit</button>
+                </form>
+                <form action="/delpost" method="post" use:enhance>
+                    <input type="hidden" name="id" value="{content.id}">
+                  <button type="submit" class="link-button">delete</button>
+                </form>
+              </div>
+              {/if}
+              <h2>{content.title}</h2>
+            {#if content.typeContent === 0}
+                <p><img src="/data/{content.id}.{content.extension}"></p>
+            {:else}
+                <p>{content.content}</p>
+            {/if}
+        </div>
+    </div>
     {/each}
-  </ul>
+</div>
+
+
 {:else}
+<div class="main">
+  <div class="container">
   <p>No content available.</p>
+</div>
+</div>
 {/if}

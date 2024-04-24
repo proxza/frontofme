@@ -15,6 +15,6 @@ export const actions = {
     });
 
     // redirect the user
-    throw redirect(302, "/login");
+    throw redirect(302, "/");
   },
 };

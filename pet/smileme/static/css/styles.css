@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #fff;
+  height: 100vh;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.container {
+  position: relative;
+  background: #fff;
+  width: 70%;
+  min-width: 420px;
+  max-width: 900px;
+  border-radius: 8px;
+  padding: 20px;
+  margin: auto auto 90px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.45);
+  text-align: center;
+}
+
+.container img {
+  max-width: 100%;
+  width: auto;
+  max-width: 500px; /* максимальная ширина картинки */
+  height: auto; /* высота автоматически изменяется, чтобы сохранить пропорции */
+}
+
+.logo {
+  text-align: center;
+  padding: 50px 0px 50px 0px;
+  margin: auto auto 10px auto;
+  border: 1px solid;
+  max-width: 70%;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px 0px 10px 0px;
+  margin: auto;
+  max-width: 70%;
+  border: 1px solid;
+}
+
+.main {
+  margin: 30px;
+}
+
+.forms {
+  position: relative;
+  background: #fff;
+  padding: 20px;
+  margin: auto;
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  padding: 10px 0px 20px 0px;
+  margin: auto;
+  max-width: 70%;
+  border: 1px solid;
+}
+
+h2 {
+  padding: 0px 0px 30px 0;
+  font-size: 24pt;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  margin: 20px 0 40px 0;
+}
+
+.form-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.form-row label {
+  width: 100px;
+  margin-right: 20px;
+}
+
+.form-row input,
+.form-row select {
+  flex: 1;
+}
+
+.button-container {
+  display: flex;
+  align-items: center; /* Центрирование кнопок по вертикали */
+  justify-content: end; /* Выравнивание кнопок по началу контейнера */
+}
+
+form {
+  margin-right: 10px; /* Отступ между формами */
+}
+
+.link-button {
+  background: none;
+  color: blue;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.link-button:hover,
+.link-button:focus {
+  text-decoration: none;
+}

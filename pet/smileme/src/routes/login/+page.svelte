@@ -5,6 +5,7 @@
     export let form: ActionData;
 </script>
 
+<div class="forms">
 <h1>Login</h1>
 
 <form action="?/login" method="post" use:enhance>
@@ -29,4 +30,4 @@
 <button type="submit">Log in</button>
 
 </form>
-
+</div>

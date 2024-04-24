@@ -21,7 +21,8 @@ model Content {
   date         DateTime @default(now()) 
   author       String    @db.VarChar(255)  
   mode         Int       
-  rating       Int      
+  rating       Int  
+  extension String @db.VarChar(255)
 }
 
 model User {

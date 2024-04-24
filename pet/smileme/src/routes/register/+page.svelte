@@ -5,6 +5,7 @@
    export let form;
 </script>
 
+<div class="forms">
 <h1>Registration</h1>
 
 <form action="?/register" method="post" use:enhance>
@@ -25,3 +26,4 @@
     <button type="submit">Register</button>
 
 </form>
+</div>
