@@ -11,7 +11,7 @@
 <nav>
     <div class="logo">LOGO</div>
           <div class="header">
-            <div class="menu"><a href="/">Home</a> | Random | About | Contacts</div>
+            <div class="menu"><a href="/">Home</a> | <a href="/rand">Random</a> | About | Contacts</div>
             <div class="login">
 
                 {#if !$page.data.user}

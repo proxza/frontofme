@@ -1,5 +1,6 @@
 <script>
     import { page } from "$app/stores";
+    import { enhance } from '$app/forms';
     //console.log($page.data.contents);
 </script>
 
@@ -8,11 +9,11 @@
 
   <div>
     {#each $page.data.contents as content}
-    <div class="main">
+    <div class="main">  
         <div class="container">
             {#if $page.data.user}
             <div class="button-container">
-                <form action="/editpost" method="post" use:enhance>
+              <form action={`/editpost/${content.id}`} method="get">
                     <input type="hidden" name="id" value="{content.id}">
                   <button type="submit" class="link-button">edit</button>
                 </form>
@@ -28,6 +29,7 @@
             {:else}
                 <p>{content.content}</p>
             {/if}
+            wwww
         </div>
     </div>
     {/each}

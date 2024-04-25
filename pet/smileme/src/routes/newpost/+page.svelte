@@ -9,6 +9,7 @@
 {$page.data.user.role}!
 {/if}
 
+<div class="forms">
 {#if $page.data.user.role === 'ADMIN'}
 <form action="?/newpost" method="post" enctype="multipart/form-data">
     <div class="form-row">
@@ -36,3 +37,4 @@
       </div>
 </form>
 {/if}
+</div>
