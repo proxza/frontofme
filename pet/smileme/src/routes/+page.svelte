@@ -17,6 +17,7 @@
                     <input type="hidden" name="id" value="{content.id}">
                   <button type="submit" class="link-button">edit</button>
                 </form>
+                <a href="/editpost/{content.id}" class="link-button">edit</a> 
                 <form action="/delpost" method="post" use:enhance>
                     <input type="hidden" name="id" value="{content.id}">
                   <button type="submit" class="link-button">delete</button>
@@ -29,7 +30,7 @@
             {:else}
                 <p>{content.content}</p>
             {/if}
-            wwww
+            <p class="likes">- 0 +</p>
         </div>
     </div>
     {/each}
