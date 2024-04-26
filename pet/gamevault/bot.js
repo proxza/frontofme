@@ -1,8 +1,7 @@
-import { Telegraf } from 'telegraf';
-import fetch from 'node-fetch';
-import cheerio from 'cheerio';
-import cron from 'node-cron';
-const bot = new Telegraf("6545043838:AAGBBxNpAVH5qrRURLoZB57iQb1BpcvecC0");
+import { Telegraf } from "telegraf";
+import fetch from "node-fetch";
+import cheerio from "cheerio";
+import cron from "node-cron";
 
 async function fetchDataAndSendToChannel() {
   const response = await fetch("https://dtf.ru/");
