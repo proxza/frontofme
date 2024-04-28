@@ -1,23 +1,24 @@
 <script>
     import { page } from "$app/stores";
     import { enhance } from '$app/forms';
-    //console.log($page.data.contents);
+    // Функция для изменения страницы
+  function changePage(newPage) {
+    window.location.href = `/?page=${newPage}`;
+  }
 </script>
 
 {#if $page.data.contents && $page.data.contents.length > 0}
-
-
   <div>
     {#each $page.data.contents as content}
-    <div class="main">  
+      <div class="main">  
         <div class="container">
             {#if $page.data.user}
             <div class="button-container">
-              <form action={`/editpost/${content.id}`} method="get">
+              <form action="/editpost/{content.id}" method="get">
                     <input type="hidden" name="id" value="{content.id}">
                   <button type="submit" class="link-button">edit</button>
                 </form>
-                <a href="/editpost/{content.id}" class="link-button">edit</a> 
+
                 <form action="/delpost" method="post" use:enhance>
                     <input type="hidden" name="id" value="{content.id}">
                   <button type="submit" class="link-button">delete</button>
@@ -34,13 +35,19 @@
         </div>
     </div>
     {/each}
-</div>
-
-
+    <div class="pagination">
+      {#if $page.data.currentPage > 1}
+        <button on:click={() => changePage($page.data.currentPage - 1)}>Prev</button>
+      {/if}
+      {#if $page.data.currentPage < $page.data.totalPages}
+        <button on:click={() => changePage($page.data.currentPage + 1)}>Next</button>
+      {/if}
+    </div>
+  </div>
 {:else}
-<div class="main">
-  <div class="container">
-  <p>No content available.</p>
-</div>
-</div>
+  <div class="main">
+    <div class="container">
+      <p>No content available.</p>
+    </div>
+  </div>
 {/if}

@@ -121,3 +121,20 @@ form {
 .link-button:focus {
   text-decoration: none;
 }
+
+.pagination {
+  border: 1px solid;
+  text-align: center;
+  margin: 0px 0px 70px 0px;
+}
+
+.pagination button {
+  padding: 8px 16px;
+  margin: 5px;
+  background-color: #f0f0f0;
+  border: 1px solid #dcdcdc;
+  cursor: pointer;
+}
+.pagination button:hover {
+  background-color: #e0e0e0;
+}
