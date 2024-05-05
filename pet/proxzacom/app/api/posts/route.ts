@@ -21,3 +21,11 @@ export async function POST(req: Request) {
     return NextResponse.json({ message: "Could not create post." });
   }
 }
+
+export async function GET() {
+  try {
+    const posts = await prisma.post.findMany({
+      include: { author: { select: { name: true } } },
+    });
+  } catch (error) {}
+}
