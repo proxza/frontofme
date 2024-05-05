@@ -28,4 +28,5 @@ export async function GET() {
       include: { author: { select: { name: true } } },
     });
   } catch (error) {}
+  console.log(error)
 }
