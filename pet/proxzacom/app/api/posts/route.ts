@@ -28,6 +28,6 @@ export async function GET() {
       include: { author: { select: { name: true } } },
     });
   } catch (error) {
-    return NextResponse.json({ message: "Test1" });
+    return NextResponse.json({ message: "Test" });
   }
 }
