@@ -27,5 +27,7 @@ export async function GET() {
     const posts = await prisma.post.findMany({
       include: { author: { select: { name: true } } },
     });
-  } catch (error) {}
+  } catch (error) {
+    return NextResponse.json({ message: "Test" });
+  }
 }
