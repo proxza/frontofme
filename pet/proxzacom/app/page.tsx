@@ -1,12 +1,28 @@
 import Hashtegs from "@/components/Hashtegs";
 import Post from "@/components/Post";
-import { postsData } from "@/data";
+import { TPost } from "./types";
 
-export default function Home() {
+const getPosts = async (): Promise<TPost[] | null> => {
+  try {
+    const res = await fetch(`${process.env.NEXTAUTH_URL}/api/posts`, { cache: "no-store" });
+
+    if (res.ok) {
+      const posts = await res.json();
+      return posts;
+    }
+  } catch (error) {
+    console.log(error);
+  }
+
+  return null;
+};
+
+export default async function Home() {
+  const posts = await getPosts();
   return (
     <>
       <Hashtegs />
-      {postsData && postsData.length > 0 ? postsData.map((post) => <Post key={post.id} id={post.id} author={post.author} authorEmail={"test@test.com"} date={post.datepublished} thumbnail={post.thumbnail} category={post.category} title={post.title} content={post.content} />) : <div className="py-6">No content to display :/</div>}
+      {posts && posts.length > 0 ? posts.map(post => <Post key={post.id} id={post.id} author={post.author.name} authorEmail={post.authorEmail} date={post.createdAt} thumbnail={post.imageUrl} category={post.catName} title={post.title} content={post.content} />) : <div className="py-6">No content to display :/</div>}
     </>
   );
 }

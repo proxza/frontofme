@@ -1,18 +1,34 @@
 import prisma from "@/lib/prismadb";
+import { getServerSession } from "next-auth/next";
 import { NextResponse } from "next/server";
+import { authOptions } from "../auth/[...nextauth]/route";
 
 export async function POST(req: Request) {
-  const { title, content, selectedHashtag, imageUrl, publicId } = await req.json();
+  const session = await getServerSession(authOptions);
 
-  const authorEmail = "joy@doy.com";
+  if (!session) {
+    return NextResponse.json({ error: "Not authenticated!" }, { status: 401 });
+  }
+
+  const { title, content, selectedCategory, imageUrl, publicId } = await req.json();
+
+  const authorEmail = session?.user?.email as string;
 
   if (!title || !content) {
     return NextResponse.json({ error: "Title and Content are required!" }, { status: 500 });
   }
 
   try {
+    console.log("DEBUG POSTS ROUTER2");
     const newPost = await prisma.post.create({
-      data: { title, content, imageUrl, publicId, catName: selectedHashtag, authorEmail },
+      data: {
+        title,
+        content,
+        imageUrl,
+        publicId,
+        catName: selectedCategory,
+        authorEmail,
+      },
     });
 
     console.log("Post created.");

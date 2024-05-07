@@ -1,3 +1,5 @@
+import { authOptions } from "@/app/api/auth/[...nextauth]/route";
+import { getServerSession } from "next-auth/next";
 import Image from "next/image";
 import Link from "next/link";
 import DeleteButton from "./DeleteButton";
@@ -12,16 +14,25 @@ interface PostProps {
   content: string;
   category?: string;
 }
-export default function Post({ id, author, date, thumbnail, authorEmail, title, content, category }: PostProps) {
-  const isEditable = true;
+export default async function Post({ id, author, date, thumbnail, authorEmail, title, content, category }: PostProps) {
+  const session = await getServerSession(authOptions);
+  const isEditable = session && session?.user?.email === authorEmail; // This is where we'll add the admin check later
+
+  // Change date format
+  const dateObject = new Date(date);
+  const options: Intl.DateTimeFormatOptions = {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+  };
+
+  const formattedDate = dateObject.toLocaleDateString("en-US", options);
+
   return (
     <div className="my-4 border-b border-b-300 py-8">
       <h2>{title}</h2>
       <div className="mb-4">
-        Posted by:{" "}
-        <span className="font-bold">
-          {author} on {date}
-        </span>
+        Posted by: <span className="font-bold">{author} </span>on {formattedDate}
       </div>
 
       {thumbnail && (
