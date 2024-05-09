@@ -32,7 +32,13 @@ export default async function Post({ id, author, date, thumbnail, authorEmail, t
     <div className="my-4 border-b border-b-300 py-8">
       <h2>{title}</h2>
       <div className="mb-4">
-        Posted by: <span className="font-bold">{author} </span>on {formattedDate}
+        {author ? (
+          <>
+            Posted by: <span className="font-bold">{author} </span>on {formattedDate}
+          </>
+        ) : (
+          <>Posted on {formattedDate}</>
+        )}
       </div>
 
       {thumbnail && (
