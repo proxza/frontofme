@@ -22,7 +22,7 @@ export default async function Home() {
   return (
     <>
       <Hashtegs />
-      {posts && posts.length > 0 ? posts.map(post => <Post key={post.id} id={post.id} author={post.author.name} authorEmail={post.authorEmail} date={post.createdAt} thumbnail={post.imageUrl} category={post.catName} title={post.title} content={post.content} />) : <div className="py-6">No content to display :/</div>}
+      {posts && posts.length > 0 ? posts.map((post) => <Post key={post.id} id={post.id} author={post.author.name} authorEmail={post.authorEmail} date={post.createdAt} thumbnail={post.imageUrl} category={post.catName} title={post.title} content={post.content} />) : <div className="py-6">No content to display :/</div>}
     </>
   );
 }
