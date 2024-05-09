@@ -9,6 +9,11 @@ const getPost = async (id: string): Promise<TPost | null> => {
     const res = await fetch(`${process.env.NEXTAUTH_URL}/api/posts/${id}`, {
       cache: "no-store",
     });
+
+    if (res.ok) {
+      const post = await res.json();
+      return post;
+    }
   } catch (error) {
     console.log(error);
   }
@@ -17,16 +22,14 @@ const getPost = async (id: string): Promise<TPost | null> => {
 };
 
 export default async function EditPost({ params }: { params: { id: string } }) {
-  // Route protection
   const session = await getServerSession(authOptions);
-  const email = session?.user?.email;
-  let posts = [];
 
   if (!session) {
     redirect("/sign-in");
   }
 
   const id = params.id;
-  console.log("[DEBUG] Post ID: ", id);
-  return <EditPostForm />;
+  const post = await getPost(id);
+
+  return <>{post ? <EditPostForm post={post} /> : <div>Invalid Post</div>}</>;
 }
